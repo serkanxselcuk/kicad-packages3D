@@ -2698,2460 +2698,108 @@ appearance Appearance{material USE PIN-02 }
 }
 Shape { geometry IndexedFaceSet 
 { creaseAngle 0.50 coordIndex [0,1,2,-1,3,1,0,-1]
-coord Coordinate { point [0.280 9.171 0.148,0.280 9.329 0.089,0.280 9.329 0.148,0.280 9.171 0.089]
-}}
-appearance Appearance{material USE PIN-02 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,0,3,1,-1]
-coord Coordinate { point [0.280 9.171 0.148,0.220 9.132 0.148,0.220 9.171 0.148,0.280 9.132 0.148]
-}}
-appearance Appearance{material USE PIN-02 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,0,2,-1]
-coord Coordinate { point [0.220 9.171 0.148,0.220 9.329 0.148,0.220 9.329 0.089,0.220 9.171 0.089]
-}}
-appearance Appearance{material USE PIN-02 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,0,3,1,-1]
-coord Coordinate { point [0.280 9.368 0.148,0.220 9.329 0.148,0.220 9.368 0.148,0.280 9.329 0.148]
-}}
-appearance Appearance{material USE PIN-02 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,1,0,-1]
-coord Coordinate { point [0.280 8.171 0.148,0.280 8.329 0.089,0.280 8.329 0.148,0.280 8.171 0.089]
-}}
-appearance Appearance{material USE PIN-02 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,0,3,1,-1]
-coord Coordinate { point [0.280 8.171 0.148,0.220 8.132 0.148,0.220 8.171 0.148,0.280 8.132 0.148]
-}}
-appearance Appearance{material USE PIN-02 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,0,2,-1]
-coord Coordinate { point [0.220 8.171 0.148,0.220 8.329 0.148,0.220 8.329 0.089,0.220 8.171 0.089]
-}}
-appearance Appearance{material USE PIN-02 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,0,3,1,-1]
-coord Coordinate { point [0.280 8.368 0.148,0.220 8.329 0.148,0.220 8.368 0.148,0.280 8.329 0.148]
-}}
-appearance Appearance{material USE PIN-02 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,1,0,-1]
-coord Coordinate { point [0.280 8.671 0.148,0.280 8.829 0.089,0.280 8.829 0.148,0.280 8.671 0.089]
-}}
-appearance Appearance{material USE PIN-02 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,0,3,1,-1]
-coord Coordinate { point [0.280 8.671 0.148,0.220 8.632 0.148,0.220 8.671 0.148,0.280 8.632 0.148]
-}}
-appearance Appearance{material USE PIN-02 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,0,2,-1]
-coord Coordinate { point [0.220 8.671 0.148,0.220 8.829 0.148,0.220 8.829 0.089,0.220 8.671 0.089]
-}}
-appearance Appearance{material USE PIN-02 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,0,3,1,-1]
-coord Coordinate { point [0.280 8.868 0.148,0.220 8.829 0.148,0.220 8.868 0.148,0.280 8.829 0.148]
-}}
-appearance Appearance{material USE PIN-02 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,1,0,-1]
-coord Coordinate { point [0.280 6.671 0.148,0.280 6.829 0.089,0.280 6.829 0.148,0.280 6.671 0.089]
-}}
-appearance Appearance{material USE PIN-02 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,0,3,1,-1]
-coord Coordinate { point [0.280 6.671 0.148,0.220 6.632 0.148,0.220 6.671 0.148,0.280 6.632 0.148]
-}}
-appearance Appearance{material USE PIN-02 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,0,2,-1]
-coord Coordinate { point [0.220 6.671 0.148,0.220 6.829 0.148,0.220 6.829 0.089,0.220 6.671 0.089]
-}}
-appearance Appearance{material USE PIN-02 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,0,3,1,-1]
-coord Coordinate { point [0.280 6.868 0.148,0.220 6.829 0.148,0.220 6.868 0.148,0.280 6.829 0.148]
-}}
-appearance Appearance{material USE PIN-02 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,1,0,-1]
-coord Coordinate { point [0.280 7.671 0.148,0.280 7.829 0.089,0.280 7.829 0.148,0.280 7.671 0.089]
-}}
-appearance Appearance{material USE PIN-02 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,0,3,1,-1]
-coord Coordinate { point [0.280 7.671 0.148,0.220 7.632 0.148,0.220 7.671 0.148,0.280 7.632 0.148]
-}}
-appearance Appearance{material USE PIN-02 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,0,2,-1]
-coord Coordinate { point [0.220 7.671 0.148,0.220 7.829 0.148,0.220 7.829 0.089,0.220 7.671 0.089]
-}}
-appearance Appearance{material USE PIN-02 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,0,3,1,-1]
-coord Coordinate { point [0.280 7.868 0.148,0.220 7.829 0.148,0.220 7.868 0.148,0.280 7.829 0.148]
-}}
-appearance Appearance{material USE PIN-02 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,1,0,-1]
-coord Coordinate { point [0.280 7.171 0.148,0.280 7.329 0.089,0.280 7.329 0.148,0.280 7.171 0.089]
-}}
-appearance Appearance{material USE PIN-02 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,0,3,1,-1]
-coord Coordinate { point [0.280 7.171 0.148,0.220 7.132 0.148,0.220 7.171 0.148,0.280 7.132 0.148]
-}}
-appearance Appearance{material USE PIN-02 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,0,2,-1]
-coord Coordinate { point [0.220 7.171 0.148,0.220 7.329 0.148,0.220 7.329 0.089,0.220 7.171 0.089]
-}}
-appearance Appearance{material USE PIN-02 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,0,3,1,-1]
-coord Coordinate { point [0.280 7.368 0.148,0.220 7.329 0.148,0.220 7.368 0.148,0.280 7.329 0.148]
-}}
-appearance Appearance{material USE PIN-02 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,0,3,1,-1]
-coord Coordinate { point [0.280 5.671 0.148,0.220 5.632 0.148,0.220 5.671 0.148,0.280 5.632 0.148]
-}}
-appearance Appearance{material USE PIN-02 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,0,2,-1]
-coord Coordinate { point [0.220 5.671 0.148,0.220 5.829 0.148,0.220 5.829 0.089,0.220 5.671 0.089]
-}}
-appearance Appearance{material USE PIN-02 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,0,3,1,-1]
-coord Coordinate { point [0.280 5.868 0.148,0.220 5.829 0.148,0.220 5.868 0.148,0.280 5.829 0.148]
-}}
-appearance Appearance{material USE PIN-02 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,1,0,-1]
-coord Coordinate { point [0.280 5.671 0.148,0.280 5.829 0.089,0.280 5.829 0.148,0.280 5.671 0.089]
-}}
-appearance Appearance{material USE PIN-02 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,0,3,1,-1]
-coord Coordinate { point [0.280 6.171 0.148,0.220 6.132 0.148,0.220 6.171 0.148,0.280 6.132 0.148]
-}}
-appearance Appearance{material USE PIN-02 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,0,2,-1]
-coord Coordinate { point [0.220 6.171 0.148,0.220 6.329 0.148,0.220 6.329 0.089,0.220 6.171 0.089]
-}}
-appearance Appearance{material USE PIN-02 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,0,3,1,-1]
-coord Coordinate { point [0.280 6.368 0.148,0.220 6.329 0.148,0.220 6.368 0.148,0.280 6.329 0.148]
-}}
-appearance Appearance{material USE PIN-02 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,1,0,-1]
-coord Coordinate { point [0.280 6.171 0.148,0.280 6.329 0.089,0.280 6.329 0.148,0.280 6.171 0.089]
-}}
-appearance Appearance{material USE PIN-02 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,1,0,-1]
-coord Coordinate { point [-0.280 8.829 0.148,-0.280 8.671 0.089,-0.280 8.671 0.148,-0.280 8.829 0.089]
-}}
-appearance Appearance{material USE PIN-02 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,0,3,1,-1]
-coord Coordinate { point [-0.280 8.829 0.148,-0.220 8.868 0.148,-0.220 8.829 0.148,-0.280 8.868 0.148]
-}}
-appearance Appearance{material USE PIN-02 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,0,2,-1]
-coord Coordinate { point [-0.220 8.829 0.148,-0.220 8.671 0.148,-0.220 8.671 0.089,-0.220 8.829 0.089]
-}}
-appearance Appearance{material USE PIN-02 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,0,3,1,-1]
-coord Coordinate { point [-0.280 8.632 0.148,-0.220 8.671 0.148,-0.220 8.632 0.148,-0.280 8.671 0.148]
-}}
-appearance Appearance{material USE PIN-02 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,0,2,-1]
-coord Coordinate { point [-0.280 8.368 0.148,-0.220 8.368 0.148,-0.220 8.329 0.148,-0.280 8.329 0.148]
-}}
-appearance Appearance{material USE PIN-02 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,0,2,-1]
-coord Coordinate { point [-0.220 8.329 0.148,-0.220 8.171 0.148,-0.220 8.171 0.089,-0.220 8.329 0.089]
-}}
-appearance Appearance{material USE PIN-02 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,0,3,1,-1]
-coord Coordinate { point [-0.280 8.132 0.148,-0.220 8.171 0.148,-0.220 8.132 0.148,-0.280 8.171 0.148]
-}}
-appearance Appearance{material USE PIN-02 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,1,0,-1]
-coord Coordinate { point [-0.280 8.329 0.148,-0.280 8.171 0.089,-0.280 8.171 0.148,-0.280 8.329 0.089]
-}}
-appearance Appearance{material USE PIN-02 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,0,3,1,-1]
-coord Coordinate { point [-0.280 7.829 0.148,-0.220 7.868 0.148,-0.220 7.829 0.148,-0.280 7.868 0.148]
-}}
-appearance Appearance{material USE PIN-02 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,0,2,-1]
-coord Coordinate { point [-0.220 7.829 0.148,-0.220 7.671 0.148,-0.220 7.671 0.089,-0.220 7.829 0.089]
-}}
-appearance Appearance{material USE PIN-02 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,0,3,1,-1]
-coord Coordinate { point [-0.280 7.632 0.148,-0.220 7.671 0.148,-0.220 7.632 0.148,-0.280 7.671 0.148]
-}}
-appearance Appearance{material USE PIN-02 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,1,0,-1]
-coord Coordinate { point [-0.280 7.829 0.148,-0.280 7.671 0.089,-0.280 7.671 0.148,-0.280 7.829 0.089]
-}}
-appearance Appearance{material USE PIN-02 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,1,0,-1]
-coord Coordinate { point [-0.280 9.329 0.148,-0.280 9.171 0.089,-0.280 9.171 0.148,-0.280 9.329 0.089]
-}}
-appearance Appearance{material USE PIN-02 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,0,2,-1]
-coord Coordinate { point [-0.280 9.368 0.148,-0.220 9.368 0.148,-0.220 9.329 0.148,-0.280 9.329 0.148]
-}}
-appearance Appearance{material USE PIN-02 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,0,2,-1]
-coord Coordinate { point [-0.220 9.329 0.148,-0.220 9.171 0.148,-0.220 9.171 0.089,-0.220 9.329 0.089]
-}}
-appearance Appearance{material USE PIN-02 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,0,3,1,-1]
-coord Coordinate { point [-0.280 9.132 0.148,-0.220 9.171 0.148,-0.220 9.132 0.148,-0.280 9.171 0.148]
-}}
-appearance Appearance{material USE PIN-02 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,0,2,-1]
-coord Coordinate { point [-0.280 7.368 0.148,-0.220 7.368 0.148,-0.220 7.329 0.148,-0.280 7.329 0.148]
-}}
-appearance Appearance{material USE PIN-02 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,0,2,-1]
-coord Coordinate { point [-0.220 7.329 0.148,-0.220 7.171 0.148,-0.220 7.171 0.089,-0.220 7.329 0.089]
-}}
-appearance Appearance{material USE PIN-02 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,0,3,1,-1]
-coord Coordinate { point [-0.280 7.132 0.148,-0.220 7.171 0.148,-0.220 7.132 0.148,-0.280 7.171 0.148]
-}}
-appearance Appearance{material USE PIN-02 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,1,0,-1]
-coord Coordinate { point [-0.280 7.329 0.148,-0.280 7.171 0.089,-0.280 7.171 0.148,-0.280 7.329 0.089]
-}}
-appearance Appearance{material USE PIN-02 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,1,0,-1]
-coord Coordinate { point [-0.280 5.829 0.148,-0.280 5.671 0.089,-0.280 5.671 0.148,-0.280 5.829 0.089]
-}}
-appearance Appearance{material USE PIN-02 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,0,2,-1]
-coord Coordinate { point [-0.280 5.868 0.148,-0.220 5.868 0.148,-0.220 5.829 0.148,-0.280 5.829 0.148]
-}}
-appearance Appearance{material USE PIN-02 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,0,2,-1]
-coord Coordinate { point [-0.220 5.829 0.148,-0.220 5.671 0.148,-0.220 5.671 0.089,-0.220 5.829 0.089]
-}}
-appearance Appearance{material USE PIN-02 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,0,3,1,-1]
-coord Coordinate { point [-0.280 5.632 0.148,-0.220 5.671 0.148,-0.220 5.632 0.148,-0.280 5.671 0.148]
-}}
-appearance Appearance{material USE PIN-02 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,1,0,-1]
-coord Coordinate { point [-0.280 6.329 0.148,-0.280 6.171 0.089,-0.280 6.171 0.148,-0.280 6.329 0.089]
-}}
-appearance Appearance{material USE PIN-02 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,0,2,-1]
-coord Coordinate { point [-0.280 6.368 0.148,-0.220 6.368 0.148,-0.220 6.329 0.148,-0.280 6.329 0.148]
-}}
-appearance Appearance{material USE PIN-02 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,0,2,-1]
-coord Coordinate { point [-0.220 6.329 0.148,-0.220 6.171 0.148,-0.220 6.171 0.089,-0.220 6.329 0.089]
-}}
-appearance Appearance{material USE PIN-02 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,0,3,1,-1]
-coord Coordinate { point [-0.280 6.132 0.148,-0.220 6.171 0.148,-0.220 6.132 0.148,-0.280 6.171 0.148]
-}}
-appearance Appearance{material USE PIN-02 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,1,0,-1]
-coord Coordinate { point [-0.280 6.829 0.148,-0.280 6.671 0.089,-0.280 6.671 0.148,-0.280 6.829 0.089]
-}}
-appearance Appearance{material USE PIN-02 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,0,3,1,-1]
-coord Coordinate { point [-0.280 6.829 0.148,-0.220 6.868 0.148,-0.220 6.829 0.148,-0.280 6.868 0.148]
-}}
-appearance Appearance{material USE PIN-02 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,0,2,-1]
-coord Coordinate { point [-0.220 6.829 0.148,-0.220 6.671 0.148,-0.220 6.671 0.089,-0.220 6.829 0.089]
-}}
-appearance Appearance{material USE PIN-02 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,0,3,1,-1]
-coord Coordinate { point [-0.280 6.632 0.148,-0.220 6.671 0.148,-0.220 6.632 0.148,-0.280 6.671 0.148]
-}}
-appearance Appearance{material USE PIN-02 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,1,0,-1]
-coord Coordinate { point [-0.280 2.329 0.148,-0.280 2.171 0.089,-0.280 2.171 0.148,-0.280 2.329 0.089]
-}}
-appearance Appearance{material USE PIN-02 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,0,2,-1]
-coord Coordinate { point [-0.280 2.368 0.148,-0.220 2.368 0.148,-0.220 2.329 0.148,-0.280 2.329 0.148]
-}}
-appearance Appearance{material USE PIN-02 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,0,2,-1]
-coord Coordinate { point [-0.220 2.329 0.148,-0.220 2.171 0.148,-0.220 2.171 0.089,-0.220 2.329 0.089]
-}}
-appearance Appearance{material USE PIN-02 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,0,3,1,-1]
-coord Coordinate { point [-0.280 2.132 0.148,-0.220 2.171 0.148,-0.220 2.132 0.148,-0.280 2.171 0.148]
-}}
-appearance Appearance{material USE PIN-02 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,0,3,1,-1]
-coord Coordinate { point [0.280 2.171 0.148,0.220 2.132 0.148,0.220 2.171 0.148,0.280 2.132 0.148]
-}}
-appearance Appearance{material USE PIN-02 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,0,2,-1]
-coord Coordinate { point [0.220 2.171 0.148,0.220 2.329 0.148,0.220 2.329 0.089,0.220 2.171 0.089]
-}}
-appearance Appearance{material USE PIN-02 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,0,3,1,-1]
-coord Coordinate { point [0.280 2.368 0.148,0.220 2.329 0.148,0.220 2.368 0.148,0.280 2.329 0.148]
-}}
-appearance Appearance{material USE PIN-02 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,1,0,-1]
-coord Coordinate { point [0.280 2.171 0.148,0.280 2.329 0.089,0.280 2.329 0.148,0.280 2.171 0.089]
-}}
-appearance Appearance{material USE PIN-02 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,0,3,1,-1]
-coord Coordinate { point [0.280 2.671 0.148,0.220 2.632 0.148,0.220 2.671 0.148,0.280 2.632 0.148]
-}}
-appearance Appearance{material USE PIN-02 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,0,2,-1]
-coord Coordinate { point [0.220 2.671 0.148,0.220 2.829 0.148,0.220 2.829 0.089,0.220 2.671 0.089]
-}}
-appearance Appearance{material USE PIN-02 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,0,3,1,-1]
-coord Coordinate { point [0.280 2.868 0.148,0.220 2.829 0.148,0.220 2.868 0.148,0.280 2.829 0.148]
-}}
-appearance Appearance{material USE PIN-02 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,1,0,-1]
-coord Coordinate { point [0.280 2.671 0.148,0.280 2.829 0.089,0.280 2.829 0.148,0.280 2.671 0.089]
-}}
-appearance Appearance{material USE PIN-02 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,0,3,1,-1]
-coord Coordinate { point [-0.280 2.829 0.148,-0.220 2.868 0.148,-0.220 2.829 0.148,-0.280 2.868 0.148]
-}}
-appearance Appearance{material USE PIN-02 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,0,2,-1]
-coord Coordinate { point [-0.220 2.829 0.148,-0.220 2.671 0.148,-0.220 2.671 0.089,-0.220 2.829 0.089]
-}}
-appearance Appearance{material USE PIN-02 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,0,3,1,-1]
-coord Coordinate { point [-0.280 2.632 0.148,-0.220 2.671 0.148,-0.220 2.632 0.148,-0.280 2.671 0.148]
-}}
-appearance Appearance{material USE PIN-02 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,1,0,-1]
-coord Coordinate { point [-0.280 2.829 0.148,-0.280 2.671 0.089,-0.280 2.671 0.148,-0.280 2.829 0.089]
-}}
-appearance Appearance{material USE PIN-02 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,0,2,-1]
-coord Coordinate { point [-0.280 3.868 0.148,-0.220 3.868 0.148,-0.220 3.829 0.148,-0.280 3.829 0.148]
-}}
-appearance Appearance{material USE PIN-02 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,0,2,-1]
-coord Coordinate { point [-0.220 3.829 0.148,-0.220 3.671 0.148,-0.220 3.671 0.089,-0.220 3.829 0.089]
-}}
-appearance Appearance{material USE PIN-02 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,0,3,1,-1]
-coord Coordinate { point [-0.280 3.632 0.148,-0.220 3.671 0.148,-0.220 3.632 0.148,-0.280 3.671 0.148]
-}}
-appearance Appearance{material USE PIN-02 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,1,0,-1]
-coord Coordinate { point [-0.280 3.829 0.148,-0.280 3.671 0.089,-0.280 3.671 0.148,-0.280 3.829 0.089]
-}}
-appearance Appearance{material USE PIN-02 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,0,3,1,-1]
-coord Coordinate { point [0.280 3.671 0.148,0.220 3.632 0.148,0.220 3.671 0.148,0.280 3.632 0.148]
-}}
-appearance Appearance{material USE PIN-02 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,0,2,-1]
-coord Coordinate { point [0.220 3.671 0.148,0.220 3.829 0.148,0.220 3.829 0.089,0.220 3.671 0.089]
-}}
-appearance Appearance{material USE PIN-02 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,0,3,1,-1]
-coord Coordinate { point [0.280 3.868 0.148,0.220 3.829 0.148,0.220 3.868 0.148,0.280 3.829 0.148]
-}}
-appearance Appearance{material USE PIN-02 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,1,0,-1]
-coord Coordinate { point [0.280 3.671 0.148,0.280 3.829 0.089,0.280 3.829 0.148,0.280 3.671 0.089]
-}}
-appearance Appearance{material USE PIN-02 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,0,3,1,-1]
-coord Coordinate { point [0.280 3.171 0.148,0.220 3.132 0.148,0.220 3.171 0.148,0.280 3.132 0.148]
-}}
-appearance Appearance{material USE PIN-02 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,0,2,-1]
-coord Coordinate { point [0.220 3.171 0.148,0.220 3.329 0.148,0.220 3.329 0.089,0.220 3.171 0.089]
-}}
-appearance Appearance{material USE PIN-02 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,0,3,1,-1]
-coord Coordinate { point [0.280 3.368 0.148,0.220 3.329 0.148,0.220 3.368 0.148,0.280 3.329 0.148]
-}}
-appearance Appearance{material USE PIN-02 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,1,0,-1]
-coord Coordinate { point [0.280 3.171 0.148,0.280 3.329 0.089,0.280 3.329 0.148,0.280 3.171 0.089]
-}}
-appearance Appearance{material USE PIN-02 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,0,3,1,-1]
-coord Coordinate { point [-0.280 3.329 0.148,-0.220 3.368 0.148,-0.220 3.329 0.148,-0.280 3.368 0.148]
-}}
-appearance Appearance{material USE PIN-02 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,0,2,-1]
-coord Coordinate { point [-0.220 3.329 0.148,-0.220 3.171 0.148,-0.220 3.171 0.089,-0.220 3.329 0.089]
-}}
-appearance Appearance{material USE PIN-02 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,0,3,1,-1]
-coord Coordinate { point [-0.280 3.132 0.148,-0.220 3.171 0.148,-0.220 3.132 0.148,-0.280 3.171 0.148]
-}}
-appearance Appearance{material USE PIN-02 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,1,0,-1]
-coord Coordinate { point [-0.280 3.329 0.148,-0.280 3.171 0.089,-0.280 3.171 0.148,-0.280 3.329 0.089]
-}}
-appearance Appearance{material USE PIN-02 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,1,0,-1]
-coord Coordinate { point [0.280 4.171 0.148,0.280 4.329 0.089,0.280 4.329 0.148,0.280 4.171 0.089]
-}}
-appearance Appearance{material USE PIN-02 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,0,3,1,-1]
-coord Coordinate { point [0.280 4.171 0.148,0.220 4.132 0.148,0.220 4.171 0.148,0.280 4.132 0.148]
-}}
-appearance Appearance{material USE PIN-02 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,0,2,-1]
-coord Coordinate { point [0.220 4.171 0.148,0.220 4.329 0.148,0.220 4.329 0.089,0.220 4.171 0.089]
-}}
-appearance Appearance{material USE PIN-02 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,0,3,1,-1]
-coord Coordinate { point [0.280 4.368 0.148,0.220 4.329 0.148,0.220 4.368 0.148,0.280 4.329 0.148]
-}}
-appearance Appearance{material USE PIN-02 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,0,3,1,-1]
-coord Coordinate { point [-0.280 4.329 0.148,-0.220 4.368 0.148,-0.220 4.329 0.148,-0.280 4.368 0.148]
-}}
-appearance Appearance{material USE PIN-02 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,0,2,-1]
-coord Coordinate { point [-0.220 4.329 0.148,-0.220 4.171 0.148,-0.220 4.171 0.089,-0.220 4.329 0.089]
-}}
-appearance Appearance{material USE PIN-02 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,0,3,1,-1]
-coord Coordinate { point [-0.280 4.132 0.148,-0.220 4.171 0.148,-0.220 4.132 0.148,-0.280 4.171 0.148]
-}}
-appearance Appearance{material USE PIN-02 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,1,0,-1]
-coord Coordinate { point [-0.280 4.329 0.148,-0.280 4.171 0.089,-0.280 4.171 0.148,-0.280 4.329 0.089]
-}}
-appearance Appearance{material USE PIN-02 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,0,3,1,-1]
-coord Coordinate { point [0.280 5.171 0.148,0.220 5.132 0.148,0.220 5.171 0.148,0.280 5.132 0.148]
-}}
-appearance Appearance{material USE PIN-02 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,0,2,-1]
-coord Coordinate { point [0.220 5.171 0.148,0.220 5.329 0.148,0.220 5.329 0.089,0.220 5.171 0.089]
-}}
-appearance Appearance{material USE PIN-02 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,0,3,1,-1]
-coord Coordinate { point [0.280 5.368 0.148,0.220 5.329 0.148,0.220 5.368 0.148,0.280 5.329 0.148]
-}}
-appearance Appearance{material USE PIN-02 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,1,0,-1]
-coord Coordinate { point [0.280 5.171 0.148,0.280 5.329 0.089,0.280 5.329 0.148,0.280 5.171 0.089]
-}}
-appearance Appearance{material USE PIN-02 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,0,3,1,-1]
-coord Coordinate { point [-0.280 5.329 0.148,-0.220 5.368 0.148,-0.220 5.329 0.148,-0.280 5.368 0.148]
-}}
-appearance Appearance{material USE PIN-02 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,0,2,-1]
-coord Coordinate { point [-0.220 5.329 0.148,-0.220 5.171 0.148,-0.220 5.171 0.089,-0.220 5.329 0.089]
-}}
-appearance Appearance{material USE PIN-02 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,0,3,1,-1]
-coord Coordinate { point [-0.280 5.132 0.148,-0.220 5.171 0.148,-0.220 5.132 0.148,-0.280 5.171 0.148]
-}}
-appearance Appearance{material USE PIN-02 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,1,0,-1]
-coord Coordinate { point [-0.280 5.329 0.148,-0.280 5.171 0.089,-0.280 5.171 0.148,-0.280 5.329 0.089]
-}}
-appearance Appearance{material USE PIN-02 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,0,3,1,-1]
-coord Coordinate { point [0.280 4.671 0.148,0.220 4.632 0.148,0.220 4.671 0.148,0.280 4.632 0.148]
-}}
-appearance Appearance{material USE PIN-02 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,0,2,-1]
-coord Coordinate { point [0.220 4.671 0.148,0.220 4.829 0.148,0.220 4.829 0.089,0.220 4.671 0.089]
-}}
-appearance Appearance{material USE PIN-02 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,0,3,1,-1]
-coord Coordinate { point [0.280 4.868 0.148,0.220 4.829 0.148,0.220 4.868 0.148,0.280 4.829 0.148]
-}}
-appearance Appearance{material USE PIN-02 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,1,0,-1]
-coord Coordinate { point [0.280 4.671 0.148,0.280 4.829 0.089,0.280 4.829 0.148,0.280 4.671 0.089]
-}}
-appearance Appearance{material USE PIN-02 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,0,2,-1]
-coord Coordinate { point [-0.280 4.868 0.148,-0.220 4.868 0.148,-0.220 4.829 0.148,-0.280 4.829 0.148]
-}}
-appearance Appearance{material USE PIN-02 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,0,2,-1]
-coord Coordinate { point [-0.220 4.829 0.148,-0.220 4.671 0.148,-0.220 4.671 0.089,-0.220 4.829 0.089]
-}}
-appearance Appearance{material USE PIN-02 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,0,3,1,-1]
-coord Coordinate { point [-0.280 4.632 0.148,-0.220 4.671 0.148,-0.220 4.632 0.148,-0.280 4.671 0.148]
-}}
-appearance Appearance{material USE PIN-02 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,1,0,-1]
-coord Coordinate { point [-0.280 4.829 0.148,-0.280 4.671 0.089,-0.280 4.671 0.148,-0.280 4.829 0.089]
-}}
-appearance Appearance{material USE PIN-02 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,0,3,1,-1]
-coord Coordinate { point [0.280 -9.329 0.148,0.220 -9.368 0.148,0.220 -9.329 0.148,0.280 -9.368 0.148]
-}}
-appearance Appearance{material USE PIN-02 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,0,2,-1]
-coord Coordinate { point [0.220 -9.329 0.148,0.220 -9.171 0.148,0.220 -9.171 0.089,0.220 -9.329 0.089]
-}}
-appearance Appearance{material USE PIN-02 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,0,3,1,-1]
-coord Coordinate { point [0.280 -9.132 0.148,0.220 -9.171 0.148,0.220 -9.132 0.148,0.280 -9.171 0.148]
-}}
-appearance Appearance{material USE PIN-02 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,1,0,-1]
-coord Coordinate { point [0.280 -9.329 0.148,0.280 -9.171 0.089,0.280 -9.171 0.148,0.280 -9.329 0.089]
-}}
-appearance Appearance{material USE PIN-02 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,0,3,1,-1]
-coord Coordinate { point [0.280 -8.829 0.148,0.220 -8.868 0.148,0.220 -8.829 0.148,0.280 -8.868 0.148]
-}}
-appearance Appearance{material USE PIN-02 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,0,2,-1]
-coord Coordinate { point [0.220 -8.829 0.148,0.220 -8.671 0.148,0.220 -8.671 0.089,0.220 -8.829 0.089]
-}}
-appearance Appearance{material USE PIN-02 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,0,3,1,-1]
-coord Coordinate { point [0.280 -8.632 0.148,0.220 -8.671 0.148,0.220 -8.632 0.148,0.280 -8.671 0.148]
-}}
-appearance Appearance{material USE PIN-02 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,1,0,-1]
-coord Coordinate { point [0.280 -8.829 0.148,0.280 -8.671 0.089,0.280 -8.671 0.148,0.280 -8.829 0.089]
-}}
-appearance Appearance{material USE PIN-02 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,0,3,1,-1]
-coord Coordinate { point [0.280 -8.329 0.148,0.220 -8.368 0.148,0.220 -8.329 0.148,0.280 -8.368 0.148]
-}}
-appearance Appearance{material USE PIN-02 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,0,2,-1]
-coord Coordinate { point [0.220 -8.329 0.148,0.220 -8.171 0.148,0.220 -8.171 0.089,0.220 -8.329 0.089]
-}}
-appearance Appearance{material USE PIN-02 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,0,3,1,-1]
-coord Coordinate { point [0.280 -8.132 0.148,0.220 -8.171 0.148,0.220 -8.132 0.148,0.280 -8.171 0.148]
-}}
-appearance Appearance{material USE PIN-02 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,1,0,-1]
-coord Coordinate { point [0.280 -8.329 0.148,0.280 -8.171 0.089,0.280 -8.171 0.148,0.280 -8.329 0.089]
-}}
-appearance Appearance{material USE PIN-02 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,1,0,-1]
-coord Coordinate { point [0.280 -7.329 0.148,0.280 -7.171 0.089,0.280 -7.171 0.148,0.280 -7.329 0.089]
-}}
-appearance Appearance{material USE PIN-02 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,0,3,1,-1]
-coord Coordinate { point [0.280 -7.329 0.148,0.220 -7.368 0.148,0.220 -7.329 0.148,0.280 -7.368 0.148]
-}}
-appearance Appearance{material USE PIN-02 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,0,2,-1]
-coord Coordinate { point [0.220 -7.329 0.148,0.220 -7.171 0.148,0.220 -7.171 0.089,0.220 -7.329 0.089]
-}}
-appearance Appearance{material USE PIN-02 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,0,3,1,-1]
-coord Coordinate { point [0.280 -7.132 0.148,0.220 -7.171 0.148,0.220 -7.132 0.148,0.280 -7.171 0.148]
-}}
-appearance Appearance{material USE PIN-02 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,1,0,-1]
-coord Coordinate { point [0.280 -7.829 0.148,0.280 -7.671 0.089,0.280 -7.671 0.148,0.280 -7.829 0.089]
-}}
-appearance Appearance{material USE PIN-02 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,0,3,1,-1]
-coord Coordinate { point [0.280 -7.829 0.148,0.220 -7.868 0.148,0.220 -7.829 0.148,0.280 -7.868 0.148]
-}}
-appearance Appearance{material USE PIN-02 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,0,2,-1]
-coord Coordinate { point [0.220 -7.829 0.148,0.220 -7.671 0.148,0.220 -7.671 0.089,0.220 -7.829 0.089]
-}}
-appearance Appearance{material USE PIN-02 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,0,3,1,-1]
-coord Coordinate { point [0.280 -7.632 0.148,0.220 -7.671 0.148,0.220 -7.632 0.148,0.280 -7.671 0.148]
-}}
-appearance Appearance{material USE PIN-02 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,0,2,-1]
-coord Coordinate { point [-0.280 -9.132 0.148,-0.220 -9.132 0.148,-0.220 -9.171 0.148,-0.280 -9.171 0.148]
-}}
-appearance Appearance{material USE PIN-02 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,0,2,-1]
-coord Coordinate { point [-0.220 -9.171 0.148,-0.220 -9.329 0.148,-0.220 -9.329 0.089,-0.220 -9.171 0.089]
-}}
-appearance Appearance{material USE PIN-02 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,0,3,1,-1]
-coord Coordinate { point [-0.280 -9.368 0.148,-0.220 -9.329 0.148,-0.220 -9.368 0.148,-0.280 -9.329 0.148]
-}}
-appearance Appearance{material USE PIN-02 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,1,0,-1]
-coord Coordinate { point [-0.280 -9.171 0.148,-0.280 -9.329 0.089,-0.280 -9.329 0.148,-0.280 -9.171 0.089]
-}}
-appearance Appearance{material USE PIN-02 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,1,0,-1]
-coord Coordinate { point [-0.280 -8.671 0.148,-0.280 -8.829 0.089,-0.280 -8.829 0.148,-0.280 -8.671 0.089]
-}}
-appearance Appearance{material USE PIN-02 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,0,3,1,-1]
-coord Coordinate { point [-0.280 -8.671 0.148,-0.220 -8.632 0.148,-0.220 -8.671 0.148,-0.280 -8.632 0.148]
-}}
-appearance Appearance{material USE PIN-02 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,0,2,-1]
-coord Coordinate { point [-0.220 -8.671 0.148,-0.220 -8.829 0.148,-0.220 -8.829 0.089,-0.220 -8.671 0.089]
-}}
-appearance Appearance{material USE PIN-02 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,0,3,1,-1]
-coord Coordinate { point [-0.280 -8.868 0.148,-0.220 -8.829 0.148,-0.220 -8.868 0.148,-0.280 -8.829 0.148]
-}}
-appearance Appearance{material USE PIN-02 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,0,3,1,-1]
-coord Coordinate { point [-0.280 -7.671 0.148,-0.220 -7.632 0.148,-0.220 -7.671 0.148,-0.280 -7.632 0.148]
-}}
-appearance Appearance{material USE PIN-02 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,0,2,-1]
-coord Coordinate { point [-0.220 -7.671 0.148,-0.220 -7.829 0.148,-0.220 -7.829 0.089,-0.220 -7.671 0.089]
-}}
-appearance Appearance{material USE PIN-02 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,0,3,1,-1]
-coord Coordinate { point [-0.280 -7.868 0.148,-0.220 -7.829 0.148,-0.220 -7.868 0.148,-0.280 -7.829 0.148]
-}}
-appearance Appearance{material USE PIN-02 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,1,0,-1]
-coord Coordinate { point [-0.280 -7.671 0.148,-0.280 -7.829 0.089,-0.280 -7.829 0.148,-0.280 -7.671 0.089]
-}}
-appearance Appearance{material USE PIN-02 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,1,0,-1]
-coord Coordinate { point [-0.280 -8.171 0.148,-0.280 -8.329 0.089,-0.280 -8.329 0.148,-0.280 -8.171 0.089]
-}}
-appearance Appearance{material USE PIN-02 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,0,2,-1]
-coord Coordinate { point [-0.280 -8.132 0.148,-0.220 -8.132 0.148,-0.220 -8.171 0.148,-0.280 -8.171 0.148]
-}}
-appearance Appearance{material USE PIN-02 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,0,2,-1]
-coord Coordinate { point [-0.220 -8.171 0.148,-0.220 -8.329 0.148,-0.220 -8.329 0.089,-0.220 -8.171 0.089]
-}}
-appearance Appearance{material USE PIN-02 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,0,3,1,-1]
-coord Coordinate { point [-0.280 -8.368 0.148,-0.220 -8.329 0.148,-0.220 -8.368 0.148,-0.280 -8.329 0.148]
-}}
-appearance Appearance{material USE PIN-02 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,0,2,-1]
-coord Coordinate { point [-0.280 -7.132 0.148,-0.220 -7.132 0.148,-0.220 -7.171 0.148,-0.280 -7.171 0.148]
-}}
-appearance Appearance{material USE PIN-02 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,0,2,-1]
-coord Coordinate { point [-0.220 -7.171 0.148,-0.220 -7.329 0.148,-0.220 -7.329 0.089,-0.220 -7.171 0.089]
-}}
-appearance Appearance{material USE PIN-02 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,0,3,1,-1]
-coord Coordinate { point [-0.280 -7.368 0.148,-0.220 -7.329 0.148,-0.220 -7.368 0.148,-0.280 -7.329 0.148]
-}}
-appearance Appearance{material USE PIN-02 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,1,0,-1]
-coord Coordinate { point [-0.280 -7.171 0.148,-0.280 -7.329 0.089,-0.280 -7.329 0.148,-0.280 -7.171 0.089]
-}}
-appearance Appearance{material USE PIN-02 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,0,3,1,-1]
-coord Coordinate { point [0.280 -6.829 0.148,0.220 -6.868 0.148,0.220 -6.829 0.148,0.280 -6.868 0.148]
-}}
-appearance Appearance{material USE PIN-02 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,0,2,-1]
-coord Coordinate { point [0.220 -6.829 0.148,0.220 -6.671 0.148,0.220 -6.671 0.089,0.220 -6.829 0.089]
-}}
-appearance Appearance{material USE PIN-02 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,0,3,1,-1]
-coord Coordinate { point [0.280 -6.632 0.148,0.220 -6.671 0.148,0.220 -6.632 0.148,0.280 -6.671 0.148]
-}}
-appearance Appearance{material USE PIN-02 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,1,0,-1]
-coord Coordinate { point [0.280 -6.829 0.148,0.280 -6.671 0.089,0.280 -6.671 0.148,0.280 -6.829 0.089]
-}}
-appearance Appearance{material USE PIN-02 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,0,3,1,-1]
-coord Coordinate { point [-0.280 -6.671 0.148,-0.220 -6.632 0.148,-0.220 -6.671 0.148,-0.280 -6.632 0.148]
-}}
-appearance Appearance{material USE PIN-02 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,0,2,-1]
-coord Coordinate { point [-0.220 -6.671 0.148,-0.220 -6.829 0.148,-0.220 -6.829 0.089,-0.220 -6.671 0.089]
-}}
-appearance Appearance{material USE PIN-02 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,0,3,1,-1]
-coord Coordinate { point [-0.280 -6.868 0.148,-0.220 -6.829 0.148,-0.220 -6.868 0.148,-0.280 -6.829 0.148]
-}}
-appearance Appearance{material USE PIN-02 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,1,0,-1]
-coord Coordinate { point [-0.280 -6.671 0.148,-0.280 -6.829 0.089,-0.280 -6.829 0.148,-0.280 -6.671 0.089]
-}}
-appearance Appearance{material USE PIN-02 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,1,0,-1]
-coord Coordinate { point [0.280 -6.329 0.148,0.280 -6.171 0.089,0.280 -6.171 0.148,0.280 -6.329 0.089]
-}}
-appearance Appearance{material USE PIN-02 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,0,3,1,-1]
-coord Coordinate { point [0.280 -6.329 0.148,0.220 -6.368 0.148,0.220 -6.329 0.148,0.280 -6.368 0.148]
-}}
-appearance Appearance{material USE PIN-02 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,0,2,-1]
-coord Coordinate { point [0.220 -6.329 0.148,0.220 -6.171 0.148,0.220 -6.171 0.089,0.220 -6.329 0.089]
-}}
-appearance Appearance{material USE PIN-02 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,0,3,1,-1]
-coord Coordinate { point [0.280 -6.132 0.148,0.220 -6.171 0.148,0.220 -6.132 0.148,0.280 -6.171 0.148]
-}}
-appearance Appearance{material USE PIN-02 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,1,0,-1]
-coord Coordinate { point [-0.280 -6.171 0.148,-0.280 -6.329 0.089,-0.280 -6.329 0.148,-0.280 -6.171 0.089]
-}}
-appearance Appearance{material USE PIN-02 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,0,3,1,-1]
-coord Coordinate { point [-0.280 -6.171 0.148,-0.220 -6.132 0.148,-0.220 -6.171 0.148,-0.280 -6.132 0.148]
-}}
-appearance Appearance{material USE PIN-02 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,0,2,-1]
-coord Coordinate { point [-0.220 -6.171 0.148,-0.220 -6.329 0.148,-0.220 -6.329 0.089,-0.220 -6.171 0.089]
-}}
-appearance Appearance{material USE PIN-02 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,0,3,1,-1]
-coord Coordinate { point [-0.280 -6.368 0.148,-0.220 -6.329 0.148,-0.220 -6.368 0.148,-0.280 -6.329 0.148]
-}}
-appearance Appearance{material USE PIN-02 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,0,2,3,-1]
-coord Coordinate { point [-0.171 7.671 1.821,-0.329 7.671 1.821,-0.407 7.593 1.899,-0.093 7.593 1.899]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,1,0,-1]
-coord Coordinate { point [-0.407 7.593 1.899,-0.329 7.829 1.821,-0.407 7.907 1.899,-0.329 7.671 1.821]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,0,2,3,-1]
-coord Coordinate { point [-0.329 7.829 1.821,-0.171 7.829 1.821,-0.093 7.907 1.899,-0.407 7.907 1.899]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,1,0,-1]
-coord Coordinate { point [-0.093 7.907 1.899,-0.171 7.671 1.821,-0.093 7.593 1.899,-0.171 7.829 1.821]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,0,2,3,-1]
-coord Coordinate { point [-0.329 7.329 1.821,-0.171 7.329 1.821,-0.093 7.407 1.899,-0.407 7.407 1.899]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,1,0,-1]
-coord Coordinate { point [-0.093 7.407 1.899,-0.171 7.171 1.821,-0.093 7.093 1.899,-0.171 7.329 1.821]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,0,2,3,-1]
-coord Coordinate { point [-0.171 7.171 1.821,-0.329 7.171 1.821,-0.407 7.093 1.899,-0.093 7.093 1.899]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,1,0,-1]
-coord Coordinate { point [-0.407 7.093 1.899,-0.329 7.329 1.821,-0.407 7.407 1.899,-0.329 7.171 1.821]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,0,2,3,-1]
-coord Coordinate { point [-0.171 6.171 1.821,-0.329 6.171 1.821,-0.407 6.093 1.899,-0.093 6.093 1.899]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,1,0,-1]
-coord Coordinate { point [-0.407 6.093 1.899,-0.329 6.329 1.821,-0.407 6.407 1.899,-0.329 6.171 1.821]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,0,2,3,-1]
-coord Coordinate { point [-0.329 6.329 1.821,-0.171 6.329 1.821,-0.093 6.407 1.899,-0.407 6.407 1.899]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,1,0,-1]
-coord Coordinate { point [-0.093 6.407 1.899,-0.171 6.171 1.821,-0.093 6.093 1.899,-0.171 6.329 1.821]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,1,0,-1]
-coord Coordinate { point [-0.093 6.907 1.899,-0.171 6.671 1.821,-0.093 6.593 1.899,-0.171 6.829 1.821]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,0,2,3,-1]
-coord Coordinate { point [-0.171 6.671 1.821,-0.329 6.671 1.821,-0.407 6.593 1.899,-0.093 6.593 1.899]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,1,0,-1]
-coord Coordinate { point [-0.407 6.593 1.899,-0.329 6.829 1.821,-0.407 6.907 1.899,-0.329 6.671 1.821]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,0,2,3,-1]
-coord Coordinate { point [-0.329 6.829 1.821,-0.171 6.829 1.821,-0.093 6.907 1.899,-0.407 6.907 1.899]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,1,0,-1]
-coord Coordinate { point [-0.093 5.907 1.899,-0.171 5.671 1.821,-0.093 5.593 1.899,-0.171 5.829 1.821]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,0,2,3,-1]
-coord Coordinate { point [-0.171 5.671 1.821,-0.329 5.671 1.821,-0.407 5.593 1.899,-0.093 5.593 1.899]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,1,0,-1]
-coord Coordinate { point [-0.407 5.593 1.899,-0.329 5.829 1.821,-0.407 5.907 1.899,-0.329 5.671 1.821]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,0,2,3,-1]
-coord Coordinate { point [-0.329 5.829 1.821,-0.171 5.829 1.821,-0.093 5.907 1.899,-0.407 5.907 1.899]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,0,2,3,-1]
-coord Coordinate { point [-0.171 3.171 1.821,-0.329 3.171 1.821,-0.407 3.093 1.899,-0.093 3.093 1.899]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,1,0,-1]
-coord Coordinate { point [-0.407 3.093 1.899,-0.329 3.329 1.821,-0.407 3.407 1.899,-0.329 3.171 1.821]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,0,2,3,-1]
-coord Coordinate { point [-0.329 3.329 1.821,-0.171 3.329 1.821,-0.093 3.407 1.899,-0.407 3.407 1.899]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,1,0,-1]
-coord Coordinate { point [-0.093 3.407 1.899,-0.171 3.171 1.821,-0.093 3.093 1.899,-0.171 3.329 1.821]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,1,0,-1]
-coord Coordinate { point [-0.093 3.907 1.899,-0.171 3.671 1.821,-0.093 3.593 1.899,-0.171 3.829 1.821]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,0,2,3,-1]
-coord Coordinate { point [-0.171 3.671 1.821,-0.329 3.671 1.821,-0.407 3.593 1.899,-0.093 3.593 1.899]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,1,0,-1]
-coord Coordinate { point [-0.407 3.593 1.899,-0.329 3.829 1.821,-0.407 3.907 1.899,-0.329 3.671 1.821]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,0,2,3,-1]
-coord Coordinate { point [-0.329 3.829 1.821,-0.171 3.829 1.821,-0.093 3.907 1.899,-0.407 3.907 1.899]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,0,2,3,-1]
-coord Coordinate { point [-0.329 5.329 1.821,-0.171 5.329 1.821,-0.093 5.407 1.899,-0.407 5.407 1.899]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,1,0,-1]
-coord Coordinate { point [-0.093 5.407 1.899,-0.171 5.171 1.821,-0.093 5.093 1.899,-0.171 5.329 1.821]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,0,2,3,-1]
-coord Coordinate { point [-0.171 5.171 1.821,-0.329 5.171 1.821,-0.407 5.093 1.899,-0.093 5.093 1.899]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,1,0,-1]
-coord Coordinate { point [-0.407 5.093 1.899,-0.329 5.329 1.821,-0.407 5.407 1.899,-0.329 5.171 1.821]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,1,0,-1]
-coord Coordinate { point [-0.093 4.907 1.899,-0.171 4.671 1.821,-0.093 4.593 1.899,-0.171 4.829 1.821]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,0,2,3,-1]
-coord Coordinate { point [-0.171 4.671 1.821,-0.329 4.671 1.821,-0.407 4.593 1.899,-0.093 4.593 1.899]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,1,0,-1]
-coord Coordinate { point [-0.407 4.593 1.899,-0.329 4.829 1.821,-0.407 4.907 1.899,-0.329 4.671 1.821]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,0,2,3,-1]
-coord Coordinate { point [-0.329 4.829 1.821,-0.171 4.829 1.821,-0.093 4.907 1.899,-0.407 4.907 1.899]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,1,0,-1]
-coord Coordinate { point [-0.407 4.093 1.899,-0.329 4.329 1.821,-0.407 4.407 1.899,-0.329 4.171 1.821]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,0,2,3,-1]
-coord Coordinate { point [-0.329 4.329 1.821,-0.171 4.329 1.821,-0.093 4.407 1.899,-0.407 4.407 1.899]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,1,0,-1]
-coord Coordinate { point [-0.093 4.407 1.899,-0.171 4.171 1.821,-0.093 4.093 1.899,-0.171 4.329 1.821]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,0,2,3,-1]
-coord Coordinate { point [-0.171 4.171 1.821,-0.329 4.171 1.821,-0.407 4.093 1.899,-0.093 4.093 1.899]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,0,2,3,-1]
-coord Coordinate { point [-0.329 2.329 1.821,-0.171 2.329 1.821,-0.093 2.407 1.899,-0.407 2.407 1.899]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,1,0,-1]
-coord Coordinate { point [-0.093 2.407 1.899,-0.171 2.171 1.821,-0.093 2.093 1.899,-0.171 2.329 1.821]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,0,2,3,-1]
-coord Coordinate { point [-0.171 2.171 1.821,-0.329 2.171 1.821,-0.407 2.093 1.899,-0.093 2.093 1.899]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,1,0,-1]
-coord Coordinate { point [-0.407 2.093 1.899,-0.329 2.329 1.821,-0.407 2.407 1.899,-0.329 2.171 1.821]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,0,2,3,-1]
-coord Coordinate { point [-0.171 2.671 1.821,-0.329 2.671 1.821,-0.407 2.593 1.899,-0.093 2.593 1.899]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,1,0,-1]
-coord Coordinate { point [-0.407 2.593 1.899,-0.329 2.829 1.821,-0.407 2.907 1.899,-0.329 2.671 1.821]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,0,2,3,-1]
-coord Coordinate { point [-0.329 2.829 1.821,-0.171 2.829 1.821,-0.093 2.907 1.899,-0.407 2.907 1.899]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,1,0,-1]
-coord Coordinate { point [-0.093 2.907 1.899,-0.171 2.671 1.821,-0.093 2.593 1.899,-0.171 2.829 1.821]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,0,2,3,-1]
-coord Coordinate { point [-0.329 1.329 1.821,-0.171 1.329 1.821,-0.093 1.407 1.899,-0.407 1.407 1.899]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,1,0,-1]
-coord Coordinate { point [-0.093 1.407 1.899,-0.171 1.171 1.821,-0.093 1.093 1.899,-0.171 1.329 1.821]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,0,2,3,-1]
-coord Coordinate { point [-0.171 1.171 1.821,-0.329 1.171 1.821,-0.407 1.093 1.899,-0.093 1.093 1.899]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,1,0,-1]
-coord Coordinate { point [-0.407 1.093 1.899,-0.329 1.329 1.821,-0.407 1.407 1.899,-0.329 1.171 1.821]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,0,2,3,-1]
-coord Coordinate { point [-0.171 1.671 1.821,-0.329 1.671 1.821,-0.407 1.593 1.899,-0.093 1.593 1.899]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,1,0,-1]
-coord Coordinate { point [-0.407 1.593 1.899,-0.329 1.829 1.821,-0.407 1.907 1.899,-0.329 1.671 1.821]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,0,2,3,-1]
-coord Coordinate { point [-0.329 1.829 1.821,-0.171 1.829 1.821,-0.093 1.907 1.899,-0.407 1.907 1.899]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,1,0,-1]
-coord Coordinate { point [-0.093 1.907 1.899,-0.171 1.671 1.821,-0.093 1.593 1.899,-0.171 1.829 1.821]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,0,2,3,-1]
-coord Coordinate { point [-0.329 0.829 1.821,-0.171 0.829 1.821,-0.093 0.907 1.899,-0.407 0.907 1.899]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,1,0,-1]
-coord Coordinate { point [-0.093 0.907 1.899,-0.171 0.671 1.821,-0.093 0.593 1.899,-0.171 0.829 1.821]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,0,2,3,-1]
-coord Coordinate { point [-0.171 0.671 1.821,-0.329 0.671 1.821,-0.407 0.593 1.899,-0.093 0.593 1.899]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,1,0,-1]
-coord Coordinate { point [-0.407 0.593 1.899,-0.329 0.829 1.821,-0.407 0.907 1.899,-0.329 0.671 1.821]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,0,2,3,-1]
-coord Coordinate { point [-0.171 -6.829 1.821,-0.329 -6.829 1.821,-0.407 -6.907 1.899,-0.093 -6.907 1.899]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,1,0,-1]
-coord Coordinate { point [-0.407 -6.907 1.899,-0.329 -6.671 1.821,-0.407 -6.593 1.899,-0.329 -6.829 1.821]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,0,2,3,-1]
-coord Coordinate { point [-0.329 -6.671 1.821,-0.171 -6.671 1.821,-0.093 -6.593 1.899,-0.407 -6.593 1.899]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,1,0,-1]
-coord Coordinate { point [-0.093 -6.593 1.899,-0.171 -6.829 1.821,-0.093 -6.907 1.899,-0.171 -6.671 1.821]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,1,0,-1]
-coord Coordinate { point [-0.093 -6.093 1.899,-0.171 -6.329 1.821,-0.093 -6.407 1.899,-0.171 -6.171 1.821]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,0,2,3,-1]
-coord Coordinate { point [-0.171 -6.329 1.821,-0.329 -6.329 1.821,-0.407 -6.407 1.899,-0.093 -6.407 1.899]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,1,0,-1]
-coord Coordinate { point [-0.407 -6.407 1.899,-0.329 -6.171 1.821,-0.407 -6.093 1.899,-0.329 -6.329 1.821]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,0,2,3,-1]
-coord Coordinate { point [-0.329 -6.171 1.821,-0.171 -6.171 1.821,-0.093 -6.093 1.899,-0.407 -6.093 1.899]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,0,2,3,-1]
-coord Coordinate { point [-0.171 -5.829 1.821,-0.329 -5.829 1.821,-0.407 -5.907 1.899,-0.093 -5.907 1.899]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,1,0,-1]
-coord Coordinate { point [-0.407 -5.907 1.899,-0.329 -5.671 1.821,-0.407 -5.593 1.899,-0.329 -5.829 1.821]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,0,2,3,-1]
-coord Coordinate { point [-0.329 -5.671 1.821,-0.171 -5.671 1.821,-0.093 -5.593 1.899,-0.407 -5.593 1.899]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,1,0,-1]
-coord Coordinate { point [-0.093 -5.593 1.899,-0.171 -5.829 1.821,-0.093 -5.907 1.899,-0.171 -5.671 1.821]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,1,0,-1]
-coord Coordinate { point [-0.407 -5.407 1.899,-0.329 -5.171 1.821,-0.407 -5.093 1.899,-0.329 -5.329 1.821]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,0,2,3,-1]
-coord Coordinate { point [-0.329 -5.171 1.821,-0.171 -5.171 1.821,-0.093 -5.093 1.899,-0.407 -5.093 1.899]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,1,0,-1]
-coord Coordinate { point [-0.093 -5.093 1.899,-0.171 -5.329 1.821,-0.093 -5.407 1.899,-0.171 -5.171 1.821]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,0,2,3,-1]
-coord Coordinate { point [-0.171 -5.329 1.821,-0.329 -5.329 1.821,-0.407 -5.407 1.899,-0.093 -5.407 1.899]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,0,2,3,-1]
-coord Coordinate { point [-0.329 -4.671 1.821,-0.171 -4.671 1.821,-0.093 -4.593 1.899,-0.407 -4.593 1.899]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,1,0,-1]
-coord Coordinate { point [-0.093 -4.593 1.899,-0.171 -4.829 1.821,-0.093 -4.907 1.899,-0.171 -4.671 1.821]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,0,2,3,-1]
-coord Coordinate { point [-0.171 -4.829 1.821,-0.329 -4.829 1.821,-0.407 -4.907 1.899,-0.093 -4.907 1.899]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,1,0,-1]
-coord Coordinate { point [-0.407 -4.907 1.899,-0.329 -4.671 1.821,-0.407 -4.593 1.899,-0.329 -4.829 1.821]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,0,2,3,-1]
-coord Coordinate { point [-0.171 -2.329 1.821,-0.329 -2.329 1.821,-0.407 -2.407 1.899,-0.093 -2.407 1.899]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,1,0,-1]
-coord Coordinate { point [-0.407 -2.407 1.899,-0.329 -2.171 1.821,-0.407 -2.093 1.899,-0.329 -2.329 1.821]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,0,2,3,-1]
-coord Coordinate { point [-0.329 -2.171 1.821,-0.171 -2.171 1.821,-0.093 -2.093 1.899,-0.407 -2.093 1.899]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,1,0,-1]
-coord Coordinate { point [-0.093 -2.093 1.899,-0.171 -2.329 1.821,-0.093 -2.407 1.899,-0.171 -2.171 1.821]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,1,0,-1]
-coord Coordinate { point [-0.093 -2.593 1.899,-0.171 -2.829 1.821,-0.093 -2.907 1.899,-0.171 -2.671 1.821]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,0,2,3,-1]
-coord Coordinate { point [-0.171 -2.829 1.821,-0.329 -2.829 1.821,-0.407 -2.907 1.899,-0.093 -2.907 1.899]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,1,0,-1]
-coord Coordinate { point [-0.407 -2.907 1.899,-0.329 -2.671 1.821,-0.407 -2.593 1.899,-0.329 -2.829 1.821]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,0,2,3,-1]
-coord Coordinate { point [-0.329 -2.671 1.821,-0.171 -2.671 1.821,-0.093 -2.593 1.899,-0.407 -2.593 1.899]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,0,2,3,-1]
-coord Coordinate { point [-0.329 -3.171 1.821,-0.171 -3.171 1.821,-0.093 -3.093 1.899,-0.407 -3.093 1.899]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,1,0,-1]
-coord Coordinate { point [-0.093 -3.093 1.899,-0.171 -3.329 1.821,-0.093 -3.407 1.899,-0.171 -3.171 1.821]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,0,2,3,-1]
-coord Coordinate { point [-0.171 -3.329 1.821,-0.329 -3.329 1.821,-0.407 -3.407 1.899,-0.093 -3.407 1.899]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,1,0,-1]
-coord Coordinate { point [-0.407 -3.407 1.899,-0.329 -3.171 1.821,-0.407 -3.093 1.899,-0.329 -3.329 1.821]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,0,2,3,-1]
-coord Coordinate { point [-0.329 -4.171 1.821,-0.171 -4.171 1.821,-0.093 -4.093 1.899,-0.407 -4.093 1.899]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,1,0,-1]
-coord Coordinate { point [-0.093 -4.093 1.899,-0.171 -4.329 1.821,-0.093 -4.407 1.899,-0.171 -4.171 1.821]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,0,2,3,-1]
-coord Coordinate { point [-0.171 -4.329 1.821,-0.329 -4.329 1.821,-0.407 -4.407 1.899,-0.093 -4.407 1.899]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,1,0,-1]
-coord Coordinate { point [-0.407 -4.407 1.899,-0.329 -4.171 1.821,-0.407 -4.093 1.899,-0.329 -4.329 1.821]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,1,0,-1]
-coord Coordinate { point [-0.093 -3.593 1.899,-0.171 -3.829 1.821,-0.093 -3.907 1.899,-0.171 -3.671 1.821]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,0,2,3,-1]
-coord Coordinate { point [-0.171 -3.829 1.821,-0.329 -3.829 1.821,-0.407 -3.907 1.899,-0.093 -3.907 1.899]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,1,0,-1]
-coord Coordinate { point [-0.407 -3.907 1.899,-0.329 -3.671 1.821,-0.407 -3.593 1.899,-0.329 -3.829 1.821]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,0,2,3,-1]
-coord Coordinate { point [-0.329 -3.671 1.821,-0.171 -3.671 1.821,-0.093 -3.593 1.899,-0.407 -3.593 1.899]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,0,2,3,-1]
-coord Coordinate { point [-0.329 -0.171 1.821,-0.171 -0.171 1.821,-0.093 -0.093 1.899,-0.407 -0.093 1.899]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,1,0,-1]
-coord Coordinate { point [-0.093 -0.093 1.899,-0.171 -0.329 1.821,-0.093 -0.407 1.899,-0.171 -0.171 1.821]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,0,2,3,-1]
-coord Coordinate { point [-0.171 -0.329 1.821,-0.329 -0.329 1.821,-0.407 -0.407 1.899,-0.093 -0.407 1.899]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,1,0,-1]
-coord Coordinate { point [-0.407 -0.407 1.899,-0.329 -0.171 1.821,-0.407 -0.093 1.899,-0.329 -0.329 1.821]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,0,2,3,-1]
-coord Coordinate { point [-0.329 -0.671 1.821,-0.171 -0.671 1.821,-0.093 -0.593 1.899,-0.407 -0.593 1.899]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,1,0,-1]
-coord Coordinate { point [-0.093 -0.593 1.899,-0.171 -0.829 1.821,-0.093 -0.907 1.899,-0.171 -0.671 1.821]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,0,2,3,-1]
-coord Coordinate { point [-0.171 -0.829 1.821,-0.329 -0.829 1.821,-0.407 -0.907 1.899,-0.093 -0.907 1.899]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,1,0,-1]
-coord Coordinate { point [-0.407 -0.907 1.899,-0.329 -0.671 1.821,-0.407 -0.593 1.899,-0.329 -0.829 1.821]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,0,2,3,-1]
-coord Coordinate { point [-0.171 -1.829 1.821,-0.329 -1.829 1.821,-0.407 -1.907 1.899,-0.093 -1.907 1.899]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,1,0,-1]
-coord Coordinate { point [-0.407 -1.907 1.899,-0.329 -1.671 1.821,-0.407 -1.593 1.899,-0.329 -1.829 1.821]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,0,2,3,-1]
-coord Coordinate { point [-0.329 -1.671 1.821,-0.171 -1.671 1.821,-0.093 -1.593 1.899,-0.407 -1.593 1.899]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,1,0,-1]
-coord Coordinate { point [-0.093 -1.593 1.899,-0.171 -1.829 1.821,-0.093 -1.907 1.899,-0.171 -1.671 1.821]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,1,0,-1]
-coord Coordinate { point [-0.093 -1.093 1.899,-0.171 -1.329 1.821,-0.093 -1.407 1.899,-0.171 -1.171 1.821]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,0,2,3,-1]
-coord Coordinate { point [-0.171 -1.329 1.821,-0.329 -1.329 1.821,-0.407 -1.407 1.899,-0.093 -1.407 1.899]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,1,0,-1]
-coord Coordinate { point [-0.407 -1.407 1.899,-0.329 -1.171 1.821,-0.407 -1.093 1.899,-0.329 -1.329 1.821]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,0,2,3,-1]
-coord Coordinate { point [-0.329 -1.171 1.821,-0.171 -1.171 1.821,-0.093 -1.093 1.899,-0.407 -1.093 1.899]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,1,0,-1]
-coord Coordinate { point [-0.093 0.407 1.899,-0.171 0.171 1.821,-0.093 0.093 1.899,-0.171 0.329 1.821]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,0,2,3,-1]
-coord Coordinate { point [-0.171 0.171 1.821,-0.329 0.171 1.821,-0.407 0.093 1.899,-0.093 0.093 1.899]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,1,0,-1]
-coord Coordinate { point [-0.407 0.093 1.899,-0.329 0.329 1.821,-0.407 0.407 1.899,-0.329 0.171 1.821]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,0,2,3,-1]
-coord Coordinate { point [-0.329 0.329 1.821,-0.171 0.329 1.821,-0.093 0.407 1.899,-0.407 0.407 1.899]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,0,2,3,-1]
-coord Coordinate { point [-0.329 -8.671 1.821,-0.171 -8.671 1.821,-0.093 -8.593 1.899,-0.407 -8.593 1.899]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,1,0,-1]
-coord Coordinate { point [-0.093 -8.593 1.899,-0.171 -8.829 1.821,-0.093 -8.907 1.899,-0.171 -8.671 1.821]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,0,2,3,-1]
-coord Coordinate { point [-0.171 -8.829 1.821,-0.329 -8.829 1.821,-0.407 -8.907 1.899,-0.093 -8.907 1.899]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,1,0,-1]
-coord Coordinate { point [-0.407 -8.907 1.899,-0.329 -8.671 1.821,-0.407 -8.593 1.899,-0.329 -8.829 1.821]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,0,2,3,-1]
-coord Coordinate { point [-0.329 -8.171 1.821,-0.171 -8.171 1.821,-0.093 -8.093 1.899,-0.407 -8.093 1.899]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,1,0,-1]
-coord Coordinate { point [-0.093 -8.093 1.899,-0.171 -8.329 1.821,-0.093 -8.407 1.899,-0.171 -8.171 1.821]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,0,2,3,-1]
-coord Coordinate { point [-0.171 -8.329 1.821,-0.329 -8.329 1.821,-0.407 -8.407 1.899,-0.093 -8.407 1.899]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,1,0,-1]
-coord Coordinate { point [-0.407 -8.407 1.899,-0.329 -8.171 1.821,-0.407 -8.093 1.899,-0.329 -8.329 1.821]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,0,2,3,-1]
-coord Coordinate { point [-0.329 -7.671 1.821,-0.171 -7.671 1.821,-0.093 -7.593 1.899,-0.407 -7.593 1.899]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,1,0,-1]
-coord Coordinate { point [-0.093 -7.593 1.899,-0.171 -7.829 1.821,-0.093 -7.907 1.899,-0.171 -7.671 1.821]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,0,2,3,-1]
-coord Coordinate { point [-0.171 -7.829 1.821,-0.329 -7.829 1.821,-0.407 -7.907 1.899,-0.093 -7.907 1.899]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,1,0,-1]
-coord Coordinate { point [-0.407 -7.907 1.899,-0.329 -7.671 1.821,-0.407 -7.593 1.899,-0.329 -7.829 1.821]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,1,0,-1]
-coord Coordinate { point [-0.093 -7.093 1.899,-0.171 -7.329 1.821,-0.093 -7.407 1.899,-0.171 -7.171 1.821]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,0,2,3,-1]
-coord Coordinate { point [-0.171 -7.329 1.821,-0.329 -7.329 1.821,-0.407 -7.407 1.899,-0.093 -7.407 1.899]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,1,0,-1]
-coord Coordinate { point [-0.407 -7.407 1.899,-0.329 -7.171 1.821,-0.407 -7.093 1.899,-0.329 -7.329 1.821]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,0,2,3,-1]
-coord Coordinate { point [-0.329 -7.171 1.821,-0.171 -7.171 1.821,-0.093 -7.093 1.899,-0.407 -7.093 1.899]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,1,0,-1]
-coord Coordinate { point [0.093 1.593 1.899,0.171 1.829 1.821,0.093 1.907 1.899,0.171 1.671 1.821]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,0,2,3,-1]
-coord Coordinate { point [0.171 1.829 1.821,0.329 1.829 1.821,0.407 1.907 1.899,0.093 1.907 1.899]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,1,0,-1]
-coord Coordinate { point [0.407 1.907 1.899,0.329 1.671 1.821,0.407 1.593 1.899,0.329 1.829 1.821]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,0,2,3,-1]
-coord Coordinate { point [0.329 1.671 1.821,0.171 1.671 1.821,0.093 1.593 1.899,0.407 1.593 1.899]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,0,2,3,-1]
-coord Coordinate { point [0.329 2.171 1.821,0.171 2.171 1.821,0.093 2.093 1.899,0.407 2.093 1.899]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,1,0,-1]
-coord Coordinate { point [0.093 2.093 1.899,0.171 2.329 1.821,0.093 2.407 1.899,0.171 2.171 1.821]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,0,2,3,-1]
-coord Coordinate { point [0.171 2.329 1.821,0.329 2.329 1.821,0.407 2.407 1.899,0.093 2.407 1.899]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,1,0,-1]
-coord Coordinate { point [0.407 2.407 1.899,0.329 2.171 1.821,0.407 2.093 1.899,0.329 2.329 1.821]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,1,0,-1]
-coord Coordinate { point [0.093 3.093 1.899,0.171 3.329 1.821,0.093 3.407 1.899,0.171 3.171 1.821]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,0,2,3,-1]
-coord Coordinate { point [0.171 3.329 1.821,0.329 3.329 1.821,0.407 3.407 1.899,0.093 3.407 1.899]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,1,0,-1]
-coord Coordinate { point [0.407 3.407 1.899,0.329 3.171 1.821,0.407 3.093 1.899,0.329 3.329 1.821]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,0,2,3,-1]
-coord Coordinate { point [0.329 3.171 1.821,0.171 3.171 1.821,0.093 3.093 1.899,0.407 3.093 1.899]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,1,0,-1]
-coord Coordinate { point [0.407 2.907 1.899,0.329 2.671 1.821,0.407 2.593 1.899,0.329 2.829 1.821]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,0,2,3,-1]
-coord Coordinate { point [0.329 2.671 1.821,0.171 2.671 1.821,0.093 2.593 1.899,0.407 2.593 1.899]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,1,0,-1]
-coord Coordinate { point [0.093 2.593 1.899,0.171 2.829 1.821,0.093 2.907 1.899,0.171 2.671 1.821]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,0,2,3,-1]
-coord Coordinate { point [0.171 2.829 1.821,0.329 2.829 1.821,0.407 2.907 1.899,0.093 2.907 1.899]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,1,0,-1]
-coord Coordinate { point [0.093 0.093 1.899,0.171 0.329 1.821,0.093 0.407 1.899,0.171 0.171 1.821]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,0,2,3,-1]
-coord Coordinate { point [0.171 0.329 1.821,0.329 0.329 1.821,0.407 0.407 1.899,0.093 0.407 1.899]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,1,0,-1]
-coord Coordinate { point [0.407 0.407 1.899,0.329 0.171 1.821,0.407 0.093 1.899,0.329 0.329 1.821]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,0,2,3,-1]
-coord Coordinate { point [0.329 0.171 1.821,0.171 0.171 1.821,0.093 0.093 1.899,0.407 0.093 1.899]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,1,0,-1]
-coord Coordinate { point [0.407 0.907 1.899,0.329 0.671 1.821,0.407 0.593 1.899,0.329 0.829 1.821]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,0,2,3,-1]
-coord Coordinate { point [0.329 0.671 1.821,0.171 0.671 1.821,0.093 0.593 1.899,0.407 0.593 1.899]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,1,0,-1]
-coord Coordinate { point [0.093 0.593 1.899,0.171 0.829 1.821,0.093 0.907 1.899,0.171 0.671 1.821]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,0,2,3,-1]
-coord Coordinate { point [0.171 0.829 1.821,0.329 0.829 1.821,0.407 0.907 1.899,0.093 0.907 1.899]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,1,0,-1]
-coord Coordinate { point [0.093 1.093 1.899,0.171 1.329 1.821,0.093 1.407 1.899,0.171 1.171 1.821]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,0,2,3,-1]
-coord Coordinate { point [0.171 1.329 1.821,0.329 1.329 1.821,0.407 1.407 1.899,0.093 1.407 1.899]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,1,0,-1]
-coord Coordinate { point [0.407 1.407 1.899,0.329 1.171 1.821,0.407 1.093 1.899,0.329 1.329 1.821]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,0,2,3,-1]
-coord Coordinate { point [0.329 1.171 1.821,0.171 1.171 1.821,0.093 1.093 1.899,0.407 1.093 1.899]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,1,0,-1]
-coord Coordinate { point [0.093 -3.907 1.899,0.171 -3.671 1.821,0.093 -3.593 1.899,0.171 -3.829 1.821]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,0,2,3,-1]
-coord Coordinate { point [0.171 -3.671 1.821,0.329 -3.671 1.821,0.407 -3.593 1.899,0.093 -3.593 1.899]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,1,0,-1]
-coord Coordinate { point [0.407 -3.593 1.899,0.329 -3.829 1.821,0.407 -3.907 1.899,0.329 -3.671 1.821]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,0,2,3,-1]
-coord Coordinate { point [0.329 -3.829 1.821,0.171 -3.829 1.821,0.093 -3.907 1.899,0.407 -3.907 1.899]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,1,0,-1]
-coord Coordinate { point [0.407 -3.093 1.899,0.329 -3.329 1.821,0.407 -3.407 1.899,0.329 -3.171 1.821]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,0,2,3,-1]
-coord Coordinate { point [0.329 -3.329 1.821,0.171 -3.329 1.821,0.093 -3.407 1.899,0.407 -3.407 1.899]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,1,0,-1]
-coord Coordinate { point [0.093 -3.407 1.899,0.171 -3.171 1.821,0.093 -3.093 1.899,0.171 -3.329 1.821]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,0,2,3,-1]
-coord Coordinate { point [0.171 -3.171 1.821,0.329 -3.171 1.821,0.407 -3.093 1.899,0.093 -3.093 1.899]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,0,2,3,-1]
-coord Coordinate { point [0.171 -2.671 1.821,0.329 -2.671 1.821,0.407 -2.593 1.899,0.093 -2.593 1.899]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,1,0,-1]
-coord Coordinate { point [0.407 -2.593 1.899,0.329 -2.829 1.821,0.407 -2.907 1.899,0.329 -2.671 1.821]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,0,2,3,-1]
-coord Coordinate { point [0.329 -2.829 1.821,0.171 -2.829 1.821,0.093 -2.907 1.899,0.407 -2.907 1.899]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,1,0,-1]
-coord Coordinate { point [0.093 -2.907 1.899,0.171 -2.671 1.821,0.093 -2.593 1.899,0.171 -2.829 1.821]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,0,2,3,-1]
-coord Coordinate { point [0.329 -1.329 1.821,0.171 -1.329 1.821,0.093 -1.407 1.899,0.407 -1.407 1.899]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,1,0,-1]
-coord Coordinate { point [0.093 -1.407 1.899,0.171 -1.171 1.821,0.093 -1.093 1.899,0.171 -1.329 1.821]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,0,2,3,-1]
-coord Coordinate { point [0.171 -1.171 1.821,0.329 -1.171 1.821,0.407 -1.093 1.899,0.093 -1.093 1.899]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,1,0,-1]
-coord Coordinate { point [0.407 -1.093 1.899,0.329 -1.329 1.821,0.407 -1.407 1.899,0.329 -1.171 1.821]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,0,2,3,-1]
-coord Coordinate { point [0.171 -1.671 1.821,0.329 -1.671 1.821,0.407 -1.593 1.899,0.093 -1.593 1.899]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,1,0,-1]
-coord Coordinate { point [0.407 -1.593 1.899,0.329 -1.829 1.821,0.407 -1.907 1.899,0.329 -1.671 1.821]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,0,2,3,-1]
-coord Coordinate { point [0.329 -1.829 1.821,0.171 -1.829 1.821,0.093 -1.907 1.899,0.407 -1.907 1.899]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,1,0,-1]
-coord Coordinate { point [0.093 -1.907 1.899,0.171 -1.671 1.821,0.093 -1.593 1.899,0.171 -1.829 1.821]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,0,2,3,-1]
-coord Coordinate { point [0.171 -2.171 1.821,0.329 -2.171 1.821,0.407 -2.093 1.899,0.093 -2.093 1.899]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,1,0,-1]
-coord Coordinate { point [0.407 -2.093 1.899,0.329 -2.329 1.821,0.407 -2.407 1.899,0.329 -2.171 1.821]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,0,2,3,-1]
-coord Coordinate { point [0.329 -2.329 1.821,0.171 -2.329 1.821,0.093 -2.407 1.899,0.407 -2.407 1.899]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,1,0,-1]
-coord Coordinate { point [0.093 -2.407 1.899,0.171 -2.171 1.821,0.093 -2.093 1.899,0.171 -2.329 1.821]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,0,2,3,-1]
-coord Coordinate { point [0.171 -0.671 1.821,0.329 -0.671 1.821,0.407 -0.593 1.899,0.093 -0.593 1.899]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,1,0,-1]
-coord Coordinate { point [0.407 -0.593 1.899,0.329 -0.829 1.821,0.407 -0.907 1.899,0.329 -0.671 1.821]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,0,2,3,-1]
-coord Coordinate { point [0.329 -0.829 1.821,0.171 -0.829 1.821,0.093 -0.907 1.899,0.407 -0.907 1.899]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,1,0,-1]
-coord Coordinate { point [0.093 -0.907 1.899,0.171 -0.671 1.821,0.093 -0.593 1.899,0.171 -0.829 1.821]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,0,2,3,-1]
-coord Coordinate { point [0.329 -0.329 1.821,0.171 -0.329 1.821,0.093 -0.407 1.899,0.407 -0.407 1.899]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,1,0,-1]
-coord Coordinate { point [0.093 -0.407 1.899,0.171 -0.171 1.821,0.093 -0.093 1.899,0.171 -0.329 1.821]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,0,2,3,-1]
-coord Coordinate { point [0.171 -0.171 1.821,0.329 -0.171 1.821,0.407 -0.093 1.899,0.093 -0.093 1.899]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,1,0,-1]
-coord Coordinate { point [0.407 -0.093 1.899,0.329 -0.329 1.821,0.407 -0.407 1.899,0.329 -0.171 1.821]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,1,0,-1]
-coord Coordinate { point [0.093 -6.407 1.899,0.171 -6.171 1.821,0.093 -6.093 1.899,0.171 -6.329 1.821]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,0,2,3,-1]
-coord Coordinate { point [0.171 -6.171 1.821,0.329 -6.171 1.821,0.407 -6.093 1.899,0.093 -6.093 1.899]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,1,0,-1]
-coord Coordinate { point [0.407 -6.093 1.899,0.329 -6.329 1.821,0.407 -6.407 1.899,0.329 -6.171 1.821]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,0,2,3,-1]
-coord Coordinate { point [0.329 -6.329 1.821,0.171 -6.329 1.821,0.093 -6.407 1.899,0.407 -6.407 1.899]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,0,2,3,-1]
-coord Coordinate { point [0.171 -5.671 1.821,0.329 -5.671 1.821,0.407 -5.593 1.899,0.093 -5.593 1.899]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,1,0,-1]
-coord Coordinate { point [0.407 -5.593 1.899,0.329 -5.829 1.821,0.407 -5.907 1.899,0.329 -5.671 1.821]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,0,2,3,-1]
-coord Coordinate { point [0.329 -5.829 1.821,0.171 -5.829 1.821,0.093 -5.907 1.899,0.407 -5.907 1.899]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,1,0,-1]
-coord Coordinate { point [0.093 -5.907 1.899,0.171 -5.671 1.821,0.093 -5.593 1.899,0.171 -5.829 1.821]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,1,0,-1]
-coord Coordinate { point [0.093 -4.907 1.899,0.171 -4.671 1.821,0.093 -4.593 1.899,0.171 -4.829 1.821]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,0,2,3,-1]
-coord Coordinate { point [0.171 -4.671 1.821,0.329 -4.671 1.821,0.407 -4.593 1.899,0.093 -4.593 1.899]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,1,0,-1]
-coord Coordinate { point [0.407 -4.593 1.899,0.329 -4.829 1.821,0.407 -4.907 1.899,0.329 -4.671 1.821]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,0,2,3,-1]
-coord Coordinate { point [0.329 -4.829 1.821,0.171 -4.829 1.821,0.093 -4.907 1.899,0.407 -4.907 1.899]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,1,0,-1]
-coord Coordinate { point [0.407 -5.093 1.899,0.329 -5.329 1.821,0.407 -5.407 1.899,0.329 -5.171 1.821]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,0,2,3,-1]
-coord Coordinate { point [0.329 -5.329 1.821,0.171 -5.329 1.821,0.093 -5.407 1.899,0.407 -5.407 1.899]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,1,0,-1]
-coord Coordinate { point [0.093 -5.407 1.899,0.171 -5.171 1.821,0.093 -5.093 1.899,0.171 -5.329 1.821]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,0,2,3,-1]
-coord Coordinate { point [0.171 -5.171 1.821,0.329 -5.171 1.821,0.407 -5.093 1.899,0.093 -5.093 1.899]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,0,2,3,-1]
-coord Coordinate { point [0.329 -4.329 1.821,0.171 -4.329 1.821,0.093 -4.407 1.899,0.407 -4.407 1.899]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,1,0,-1]
-coord Coordinate { point [0.093 -4.407 1.899,0.171 -4.171 1.821,0.093 -4.093 1.899,0.171 -4.329 1.821]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,0,2,3,-1]
-coord Coordinate { point [0.171 -4.171 1.821,0.329 -4.171 1.821,0.407 -4.093 1.899,0.093 -4.093 1.899]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,1,0,-1]
-coord Coordinate { point [0.407 -4.093 1.899,0.329 -4.329 1.821,0.407 -4.407 1.899,0.329 -4.171 1.821]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,0,2,3,-1]
-coord Coordinate { point [0.171 6.329 1.821,0.329 6.329 1.821,0.407 6.407 1.899,0.093 6.407 1.899]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,1,0,-1]
-coord Coordinate { point [0.407 6.407 1.899,0.329 6.171 1.821,0.407 6.093 1.899,0.329 6.329 1.821]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,0,2,3,-1]
-coord Coordinate { point [0.329 6.171 1.821,0.171 6.171 1.821,0.093 6.093 1.899,0.407 6.093 1.899]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,1,0,-1]
-coord Coordinate { point [0.093 6.093 1.899,0.171 6.329 1.821,0.093 6.407 1.899,0.171 6.171 1.821]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,1,0,-1]
-coord Coordinate { point [0.093 5.593 1.899,0.171 5.829 1.821,0.093 5.907 1.899,0.171 5.671 1.821]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,0,2,3,-1]
-coord Coordinate { point [0.171 5.829 1.821,0.329 5.829 1.821,0.407 5.907 1.899,0.093 5.907 1.899]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,1,0,-1]
-coord Coordinate { point [0.407 5.907 1.899,0.329 5.671 1.821,0.407 5.593 1.899,0.329 5.829 1.821]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,0,2,3,-1]
-coord Coordinate { point [0.329 5.671 1.821,0.171 5.671 1.821,0.093 5.593 1.899,0.407 5.593 1.899]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,1,0,-1]
-coord Coordinate { point [0.407 5.407 1.899,0.329 5.171 1.821,0.407 5.093 1.899,0.329 5.329 1.821]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,0,2,3,-1]
-coord Coordinate { point [0.329 5.171 1.821,0.171 5.171 1.821,0.093 5.093 1.899,0.407 5.093 1.899]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,1,0,-1]
-coord Coordinate { point [0.093 5.093 1.899,0.171 5.329 1.821,0.093 5.407 1.899,0.171 5.171 1.821]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,0,2,3,-1]
-coord Coordinate { point [0.171 5.329 1.821,0.329 5.329 1.821,0.407 5.407 1.899,0.093 5.407 1.899]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,1,0,-1]
-coord Coordinate { point [0.407 4.407 1.899,0.329 4.171 1.821,0.407 4.093 1.899,0.329 4.329 1.821]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,0,2,3,-1]
-coord Coordinate { point [0.329 4.171 1.821,0.171 4.171 1.821,0.093 4.093 1.899,0.407 4.093 1.899]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,1,0,-1]
-coord Coordinate { point [0.093 4.093 1.899,0.171 4.329 1.821,0.093 4.407 1.899,0.171 4.171 1.821]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,0,2,3,-1]
-coord Coordinate { point [0.171 4.329 1.821,0.329 4.329 1.821,0.407 4.407 1.899,0.093 4.407 1.899]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,0,2,3,-1]
-coord Coordinate { point [0.329 4.671 1.821,0.171 4.671 1.821,0.093 4.593 1.899,0.407 4.593 1.899]
-}}
-appearance Appearance{material USE IC-BODY-EPOXY-04 }
-}
-Shape { geometry IndexedFaceSet 
-{ creaseAngle 0.50 coordIndex [0,1,2,-1,3,1,0,-1]
+coord Coordinate { point [0.280 9.171 0.148,0.280 9.329 0.089,0.280 9.329 0.148,0.280 9.171 ml’'Nny@                                                                                                                                                                                                                                                                                     ä“Naò§jO<ˇmZ”R«d / ÌŸ∆©ñ~L/                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       ÉX7CurrentNotificationIdœ
+3TilesBandwidthTotal   	CurrentNotificationId3	OutlookQuirkEnabled)	DB_INTIIALIZED;toastCondensed:maxCountP)	badge:maxCount)toast:maxCount'tile:maxCount      ä“Naò§j∑i'Ùÿ@
+h 5 5öÇP…Ô‹≠                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             7CurrentNotificationIdÿ3TilesBandwidthTotal
+   CurrentNotificationId3OutlookQuirkEnabled)DB_INTIIALIZED;toastCondensed:maxCount)badge:maxCount)toast:maxCount'	tile:maxCount       ä“Naò§jª˝ ç‰´SQLite format 3   @     #   g   g                                                      # .(k   ˚    ˚Ê9	÷ 	t	ç~ü(b¬Rô!"X ´Á%             Ç9''Ñ1tableHandlerAssetsHandlerAssetsCREATE TABLE [HandlerAssets]( [HandlerId] INTEGER CONSTRAINT[AssetsToHandler] REFERENCES[NotificationHandler]([RecordId]) ON DELETE CASCADE ON UPDATE CASCADE, [AssetKey] TEXT NOT NULL, [AssetValue] TEXT, CONSTRAINT[] PRIMARY KEY([AssetKey], [HandlerId]) ON CONFLICT REPLACE)9M' indexsqlite_autoindex_HandlerAssets_1HandlerAssetsÇ3--ÑtableNotificationDataNotificationDataCREATE TABLE [NotificationData]( [NotificationId] INTEGER CONSTRAINT[DataToNotification] REFERENCES[Notification]([Id]) ON DELETE CASCADE ON UPDATE CASCADE, [Key] TEXT NOT NULL, [Value] TEXT, CONSTRAINT[] PRIMARY KEY([Key], [NotificationId]) ON CONFLICT REPLACE)?S- indexsqlite_autoindex_NotificationData_1NotificationDataÅÅ]tableMetadataMetadataCREATE TABLE [Metadata]( [Key] TEXT, [Value] INT64, CONSTRAINT[] PRIMARY KEY([Key]) ON CONFLICT REPLACE)/C indexsqlite_autoindex_Metadata_1Metadatan))ÅindexchannelExpiredWNSPushChannelCREATE INDEX [channelExpired] ON [WNSPushChannel] ([ExpiryTime] DESC)d%)ÅindexchannelByAppWNSPushChannelCREATE INDEX [channelByApp] ON [WNSPushChannel] ([HandlerId])Ç7))Ñ)tableWNSPushChannelWNSPushChannelCREATE TABLE [WNSPushChannel]( [ChannelId] TEXT NOT NULL, [HandlerId] INTEGER REFERENCES[NotificationHandler]([RecordId]) ON DELETE CASCADE ON UPDATE CASCADE, [Uri] TEXT, [ExpiryTime] INT64, [CreatedTime] INT64, CONSTRAINT[] PRIMARY KEY([ChannelId]) ON CONFLICT REPLACE);O) indexsqlite_autoindex_WNSPushChannel_1WNSPushChannelt3%ÅindexnotificationExpiredNotificationCREATE INDEX [notificationExpired] ON [Notification] ([ExpiryTime] DESC)g1%ÅindexnotificationByTypeNotificationCREATE INDEX [notificationByType] ON [Notification] ([Type])Å9%ÅGindexnotificationByTagGroupNotificationCREATE INDEX [notificationByTagGroup] ON [Notification] ([HandlerId], [Type], [Group], [Tag])~;%Å)indexnotificationByAppByTypeNotificationCREATE INDEX [notificationByAppByType] ON [Notification] ([HandlerId], [Type])y
+=%ÅindexnotificationByActivityIdNotificationCREATE INDEX [notificationByActivityId] ON [Notification] ([ActivityId])j	/%ÅindexnotificationByAppNotification
+CREATE INDEX [notificationByApp] ON [Notification] ([HandlerId])`-%}indexnotificationByIdNotification	CREATE INDEX [notificationById] ON [Notification] ([Id])Ñ'%%àtableNotificationNotificationCREATE TABLE [Notification]( [Order] INTEGER NOT NULL PRIMARY KEY, [Id] INTEGER NOT NULL, [HandlerId] INTEGER CONSTRAINT[NotificationToHandler] REFERENCES[NotificationHandler]([RecordId]) ON DELETE CASCADE ON UPDATE CASCADE, [ActivityId] GUID,[Type] TEXT NOT NULL, [Payload] BLOB, [Tag] TEXT, [Group] TEXT, [ExpiryTime] INT64, [ArrivalTime] INT64, [DataVersion] INT64 DEFAULT '0', [PayloadType] TEXT NOT NULL, [BootId] INT64 DEFAULT '0', [ExpiresOnReboot] BOOLEAN DEFAULT 'FALSE', UNIQUE([Id]) ON CONFLICT REPLACE)7K% indexsqlite_autoindex_Notification_1Notificationi+ÅindexbySettingHandlerSettingsCREATE INDEX [bySetting] ON[HandlerSettings] ([SettingKey], [Value])Ç?++Ñ5tableHandlerSettingsHandlerSettingsCREATE TABLE [HandlerSettings]( [HandlerId] INTEGER CONSTRAINT[SettingsToHandler] REFERENCES[NotificationHandler]([RecordId]) ON DELETE CASCADE ON UPDATE CASCADE, [SettingKey] TEXT NOT NULL, [Value] INT, CONSTRAINT[] PRIMARY KEY([SettingKey], [HandlerId]) ON CONFLICT REPLACE)=Q+ indexsqlite_autoindex_HandlerSettings_1HandlerSettings       w'3Å!indexbyHandlerNameNotificationHandlerCREATE UNIQUE INDEX [byHandlerName] ON [NotificationHandler] ([PrimaryId])ÇW33ÑUtableNotificationHandlerNotificationHandlerCREATE TABLE [NotificationHandler] ( [RecordId] INTEGER PRIMARY KEY, [PrimaryId] TEXT NOT NULL COLLATE NOCASE, [WNSId] TEXT COLLATE NOCASE, [HandlerType] TEXT, [WNFEventName] INT64, [SystemDataPropertySet] BLOB, [CreatedTime] DATETIME, [ModifiedTime] DATETIME, [ParentId] TEXT COLLATE NO          ä“Naò§j-‘›±Ì•i˚
+ö `êàÄ»ÿ–h∞¯p`∏Ë¿®x‡†X                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                ª ' ß™ ( ®∫&°∏$Õ95 ¥4 ≥3 ≤    ,œ;Ã8≤æ*À76 µL ¡K ¿Œ:…5≥∑#   	    ä“Naò§jôÑ> ∞c
+ö `êàÄ»ÿ–h∞¯p`∏Ë¿®x‡†X                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                ª ' ß™ ( ®∫&°∏$Õ95 ¥4 ≥3 ≤    ,œ;Ã8≤æ*À76 µL ¡K ¿Œ:…5≥∑#   
+    ä“Naò§jÚä§U:4è˛
+ß cùñè≈Ÿk“à·Å˘rzΩ≠µËcß                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      ü  ë ßä   ï&h~$~*~r ¡> ¥> ≥> ≤Ã Ã  å å8 å: å7> µ    år ¿?5~ å; å9 ~#       ä“Naò§j)I~Ï
+¬ > ¨ñ;%|fTÍæ‘j>„®ÕÄí˘                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               Ø                  ßÉ                  ®É                ,                &,                ,                $,                9,                 ≥,                 ≤Q        ,                8,                *,                ;,                7,                 µ,                 ¥                    ,                 ¡,                 ¿,                :,                5,                ,                #,                       ä“Naò§jäu"≠"§N
+∂ D8™û_Õ¡S,Ö⁄ ëxÛkÊ]                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                v  åtile É  ëtoastl  ótoas ïtoast&htoastR~tile*~tile>tile ≥>tile ≤~tile?tile5 åtile: åtile8~tile# åtile7>tile µ>tile ¥    åtilertile ¡rtile ¿ ~tile$ åtile; åtile9       ä“Naò§j•‰ãß™ëPç
+6 π%	π`›»ﬂCÏ´Úoúç˙Qπ‰                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              ' *'' ëtoastBatteryStatusBatteryStatus ß˝  åti6 *''#1 ïtoast15vTYJJe6TnU2M3aem.0&htoast~tile åtile:>tile ¥>tile ≥>tile ≤«   ~tile ~tile åtile;?tile5 åtile7~tile# åtile9 åtile8~tile$>tile µ rtileCommunity ¡rtileLogo ¿ ~tile*       ä“Naò§jRˆ)‚∂^;
+™ -ka†ñWMπØÕˆâ◊C√9u·-#                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   ù toast 
+toast&	tile:	tile7	tile ¡	tile ¿	tile ≥	tile ≤	tile;	tile8	tile*» 	tile µ	tile ¥Ï 		tile	tile	tile9	tile#	tile5
+toast   
+tile
+	tile$       ä“Naò§j}™Sê{P
+á  ESêûa»÷‰Ú∫¨+Å{uo?9Õ                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         = ’®!ù°  ßY ’èiè· ™J ’+|ˇ!u ∑á ’#s[#’)™k{b&’(PòkÌ ¡ ¿’*$Rû˛m;’*!5!òÎ:’*ßÅ>7 µ ¥ ≥ ≤   	’
+’*"5kÄ9’*ÿd8’(|´¬p 5’)ÚlÎ‰’)„Ãòìˆ*’)©¯ƒ„$’)©¯ø¶ƒ#’)˘XÚ   '    ä“Naò§j¢|÷d>*
+ä î^Í‘æ®í¶fP:$¯‚Ã∂†ät^H2⁄ƒÆòÇlV@*˛Ë“º¶êzdN8"ˆ‡ ¥ûà\F0
+Ó
+ÿ
+¬
+¨
+ñ∫”éw`I2*¸ÂŒ∑†èr[D-u^Íº
+Å
+k
+U
+?
+)
+	˚	‰	Õ	∂	ü	à	q	Z	C	,	˛Á–Ì÷ø®ëzcL5Ÿl´î}fO8!
+Û‹≈ÆóÄiR;$ˆﬂ»±öÉÉ>'˘‚À¥ùÜoXAË—∫£å          )c:storage:tile ìÇ)c:storage:tile í˚“ )c:storage:tile åb)c:storage:tile?\)c:storage:tile ñ3)c:storage:tile~A)c:storage:tile ïª)c:storage:tile>v)c:storage:tiler>)c:storage:tile ê")c:storage:tile è
+)c:storage:tile éÚ)c:storage:tile ç≤A c:storage:tile~Ô)c:storage:tile ã1)c:storage:tile ä)c:storage:tile â)c:storage:tile àÈ)c:storage:tile á—)c:storage:tile Üπ)c:storage:tile Ö°¬+c:storage:toastNa+c:storage:toastMI+c:storage:toastL1+c:storage:toastK+c:storage:toastJ+c:storage:toastIÈ+c:storage:toastH—+c:storage:toastCO+c:storage:toastB7+c:storage:toastA+c:storage:toast@+c:storage:toast?Ô+c:storage:toast>◊+c:storage:toast#¥+c:storage:toast<ß+c:storage:toast;è+c:storage:toast:w+c:storage:toast9_+c:storage:toast8G+c:storage:toast7/+c:storage:toast6+c:storage:toast5ˇ+c:storage:toast4Á+c:storage:toast3œ+c:storage:toast2Ø+c:storage:toast1ó+c:storage:toast0+c:storage:toast/g+c:storage:toast.O+c:storage:toast-7+c:storage:toast,+c:storage:toast++c:storage:toast*Ô+c:storage:toast)◊+c:storage:toast(ø+c:storage:toast'ß+c:storage:toast&è+c:storage:toast%w+c:storage:toast$_§ c:storage:toast#G+c:storage:toast"/+c:storage:toast!+c:storage:toast ˇ+c:storage:toastÁ+c:storage:toastœ+c:storage:toast∑+c:storage:toastü+c:storage:toastá+c:storage:toasto+c:storage:toastW+c:storage:toast?+c:storage:toast'+c:storage:toast+c:storage:toast˜)c:storage:tile Ñâ)c:storage:tile Éq)c:storage:tile ÇY)c:storage:tile ÅA)c:storage:tile Ä))c:storage:tiler c:storage:tile?É)c:storage:tile}‡+c:storage:toastﬂ+c:storage:toast«+c:storage:toastØ+c:storage:toastó+c:storage:toast+c:storage:toastg+c:storage:toastO+c:storage:toast¡+c:storage:toast+c:storage:toast+c:storage:toast
+ Ô+c:storage:toast	 ◊+c:storage:toast ø+c:storage:toast ß+c:storage:toast è+c:storage:toastw+c:storage:toast_+c:storage:toastG+c:storage:toast/+	c:storage:toast)c:storage:tile|»)c:storage:tile{∞)c:storage:tilezò)c:storage:tileyÄ)c:storage:tilexh)c:storage:tilewP)c:storage:tilev8)c:storage:tileu )c:storage:tilet)c:storage:tiles
+| c:storage:tiler)c:storage:tileq
+¿)c:storage:tilep
+®)c:storage:tileo
+ê)c:storage:tilen
+`)c:storage:tilem
+H)c:storage:tilel
+0)c:storage:tilek
+)c:storage:tilej
+ )c:storage:tilei	Ë)c:storage:tileh	–)c:storage:tileg	∏)c:storage:tilef	†)c:storage:tilee	à)c:storage:tiled	p)c:storage:tilec	X)c:storage:tileb	@)c:storage:tilea	()c:storage:tile`	)c:storage:tile_¯)c:storage:tile^‡)c:storage:tile]»)c:storage:tile\∞)c:storage:tile[ò)c:storage:tileZÄ)c:storage:tileYh)c:storage:tileXP)c:storage:tileW8)c:storage:tileV )c:storage:tileU)c:storage:tileT)c:storage:tileSÿ)c:storage:tileR¿)c:storage:tileQ®)c:storage:tilePê)c:storage:tileOx)c:storage:tileN`)c:storage:tileMH)c:storage:tileL0)c:storage:tileK)c:storage:tileJ )c:storage:tileIË)c:storage:tileH–)c:storage:tileCN)c:storage:tileB6)c:storage:tileA)c:storage:tile@   c:storage:tile>)c:storage:tile=æ)c:storage:tile<¶)c:storage:tile;é)c:storage:tile:v)c:storage:tile9^   (    ä“Naò§jK¢>±àÇK
+N òPÎ÷¡¨óÇmXC.Ô⁄≈∞õÜq\G2Ûﬁ…¥üäK6!˜‚Õ∏£éydO:%˚Ê—ºßí}hS>)
+ˇ
+Í
+’
+¿
+´
+ñ
+Å
+l
+W
+B
+-
+
+	Ó	Ÿ	ƒ	Ø	ö	p	[	F	1		Ú›»u`≥ûât_J5 ˆ·Ã∑¢çxc9eP˙Â	Ö$ˇ–ª¶ë|fP:$¯‚Ã∂†ät^H2⁄ƒÆòÇlV@*Ë“º¶êzzz                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  c:storage:tile8)c:storage:tileª)c:storage:tileÇ+c:storage:toast◊+c:storage:toastø+c:storage:toastß+c:storage:toastè+c:storage:toastw+c:storage:toast_)	c:storage:tileb+c:storage:toast/+c:storage:toast+c:storage:toastˇ+c:storage:toastÁ+c:storage:toastœ+c:storage:toast∑+c:storage:toastü+c:storage:toastá+c:storage:toasto+c:storage:toastW+c:storage:toast?+c:storage:toast'+c:storage:toast+c:storage:toast˜+c:storage:toastﬂ+c:storage:toast«+c:storage:toastØ+c:storage:toastó+c:storage:toast+c:storage:toastg+c:storage:toastO+c:storage:toast+c:storage:toast+c:storage:toast Ô+c:storage:toast ◊+c:storage:toast ø+c:storage:toast ß+c:storage:toast è+c:storage:toastw+c:storage:toast_+c:storage:toastG+c:storage:toast/+c:storage:toast)	c:storage:tilev)c:storage:tile3)	c:storage:tileA)	c:storage:tile\)c:storage:tile˚   c:storage:tileÓ)c:storage:tile")c:storage:tile
+)c:storage:tileÚ)c:storage:tile≤)c:storage:tile1)c:storage:tile)c:storage:tile)c:storage:tileÈ)c:storage:tile—)c:storage:tileπ)c:storage:tile°)c:storage:tileâ)c:storage:tileq)c:storage:tileY)c:storage:tileA)c:storage:tile))c:storage:tile)c:storage:tile∞)c:storage:tileò)c:storage:tileÄ)c:storage:tileh)c:storage:tileP)c:storage:tile8)c:storage:tile )c:storage:tile)c:storage:tile
+)	c:storage:tile>)c:storage:tile
+¿)c:storage:tile
+®)c:storage:tile
+ê)c:storage:tile
+`)c:storage:tile
+H)c:storage:tile
+0)c:storage:tile
+)c:storage:tile
+ )c:storage:tile	Ë)c:storage:tile	–)c:storage:tile	∏)c:storage:tile	†)c:storage:tile	à)c:storage:tile	p)c:storage:tile	X)c:storage:tile	@)c:storage:tile	()c:storage:tile	)c:storage:tile¯)c:storage:tile‡)c:storage:tile»)c:storage:tile∞)c:storage:tileò)c:storage:tileÄ)c:storage:tileh)c:storage:tileP)c:storage:tile8)c:storage:tile )c:storage:tile)c:storage:tile)c:storage:tileÿ)c:storage:tile¿)c:storage:tile®)c:storage:tileê)c:storage:tilex)c:storage:tile`)c:storage:tileH)c:storage:tile0)c:storage:tile)c:storage:tile )c:storage:tileË)c:storage:tile–)c:storage:tileN)c:storage:tile6)c:storage:tile)c:storage:tile)c:storage:tile‡)c:storage:tile»)c:storage:tileæ)c:storage:tile¶)c:storage:tileé)c:storage:tilev)c:storage:tile^)c:storage:tileF)c:storage:tile.)c:storage:tile)c:storage:tile˛)c:storage:tileÊ)c:storage:tileŒ)c:storage:tileÆ)c:storage:tileñ)c:storage:tile~)c:storage:tilef)c:storage:tileN)c:storage:tile6)c:storage:tile)c:storage:tile)c:storage:tileÓ)c:storage:tile÷)c:storage:tileæ)c:storage:tile¶)c:storage:tileé)c:storage:tilev)c:storage:tile^)c:storage:tileF)c:storage:tile.)c:storage:tile)c:storage:tile˛   V    ä“Naò§j√_∏¨≈ê    tion" hint-align="center">Berlin</text><text hint-style="base" hint-align="center">19¬∞</text></binding><binding template="TileMedium" DisplayName="Berlin" hint-overlay="30"><image placement="background" src="WeatherImages/210x173/46.jpg?a" /><text>Rain Showers</text><image hint-removeMargin="True" hint-align="center" src="ms-appx:///Assets/AppTiles/Spacer/6px.png" /><group><subgroup hint-weight="70" hint-textStacking="center"><image hint-removeMargin="True" hint-align="center" src="ms-appx:///Assets/AppTiles/Spacer/2px.png" /><text hint-style="titleNumeral">19¬∞</text></subgroup><subgroup hint-weight="30"><image hint-removeMargin="True" hint-align="center" src="ms-appx:///Assets/AppTiles/Spacer/6px.png" /><text>24¬∞</text><text hint-style="captionsubtle">14¬∞</text></subgroup></group></binding><binding template="TileWide" DisplayName="Berlin" hint-overlay="30"><image placement="background" src="WeatherImages/423x173/46.jpg?a" /><text>Rain Showers</text><image hint-removeMargin="True" hint-align="center" src="ms-appx:///Assets/AppTiles/Spacer/6px.png" /><group><subgroup hint-weight="32" hint-textStacking="center"><image hint-removeMargin="True" hint-align="center" src="ms-appx:///Assets/AppTiles/Spacer/2px.png" /><text hint-style="titleNumeral">19¬∞</text></subgroup><subgroup hint-weight="20"><image hint-removeMargin="True" hint-align="center" src="ms-appx:///Assets/AppTiles/Spacer/6px.png" /><text>24¬∞</text><text hint-style="captionsubtle">14¬∞</text></subgroup><subgroup hint-weight="10"><image hint-removeMargin="True" hint-align="center" src="ms-appx:///Assets/AppTiles/Spacer/6px.png" /><image hint-removeMargin="True" hint-align="center" src="LiveTile/Icons_Icon_PoP_sm.png?a" /><image hint-removeMargin="True" hint-align="center" src="ms-appx:///Assets/AppTiles/Spacer/4px.png" /><image hint-removeMargin="True" hint-align="center" src="LiveTile/W4.png?a" /></subgroup><subgroup hint-weight="38"><image hint-removeMargin="True" hint-align="center" src="ms-appx:///Assets/AppTiles/Spacer/6px.png" /><text>88%</text><text>4 mph</text></subgroup></group></binding><binding template="TileLarge" DisplayName="Berlin" hint-overlay="30"><image placement="background" src="WeatherImages/210x173/46.jpg?a" /><text>Rain Showers</text><image hint-removeMargin="True" hint-align="center" src="ms-appx:///Assets/AppTiles/Spacer/6px.png" /><group><subgroup hint-weight="100"><image hint-removeMargin="True" hint-align="center" src="ms-appx:///Assets/AppTiles/Spacer/2px.png" /><text hint-style="subheaderNumeral">19¬∞</text></subgroup></group><text /><group><subgroup hint-weight="18"><text hint-align="center">Fri</text><image hint-align="center" src="WeatherIcons/30x30/3.png?a" /><text hint-align="center">24¬∞</text><text hint-style="captionsubtle" hint-align="center">14¬∞</text></subgroup><subgroup hint-weight="18"><text hint-align="center">Sat</text><image hint-align="center" src="WeatherIcons/30x30/3.png?a" /><text hint-align="center">23¬∞</text><text hint-style="captionsubtle" hint-align="center">12¬∞</text></subgroup><subgroup hint-weight="18"><text hint-align="center">Sun</text><image hint-align="center" src="WeatherIcons/30x30/1.png?a" /><text hint-align="center">24¬∞</text><text hint-style="captionsubtle" hint-align="center">14¬∞</text></subgroup><subgroup hint-weight="18"><text hint-align="center">Mon</text><image hint-align="center" src="WeatherIcons/30x30/3.png?a" /><text hint-align="center">28¬∞</text><text hint-style="captionsubtle" hint-align="center">18¬∞</text></subgroup><subgroup hint-weight="18"><text hint-align="center">Tue</text><image hint-align="center" src="WeatherIcons/30x30/3.png?a" /><text hint-align="center">31¬∞</text><text hint-style="captionsubtle" hint-align="center">19¬∞</text></subgroup></group></binding></visual></tile>’*$Rû˛m’'»”aæmXml’'ÇÂ˜§                                                                                                                                                                                                                                                                                 _    ä“Naò§j8EÕü"Rπ™  ‹ ØûºæÕ ‹
+≠
+-
+-
+-                                                                                                                                                                                              °WÇ: ,¬4Œ å                tile<?xml version="1.0" encoding="utf-8"?><tile><visual version="2" Branding="name" baseUri="http://blob.weather.microsoft.com/static/mws-new/" hint-lockDetailedStatus1="Berlin   20¬∞" hint-lockDetailedStatus2="Mostly Clear" hint-lockDetailedStatus3="High 24¬∞, Low 14¬∞"><binding template="TileSmall" hint-textStacking="center" hint-overlay="30" branding="none"><image placement="background" src="WeatherImages/210x173/29.jpg?a" /><text hint-style="cap   f°WÇ9 ,¬4Õ å                tile<?xml version="1.0" encoding="utf-8"?><tile><visual version="2" Branding="name" baseUri="http://blob.weather.microsoft.com/static/mws-new/" hint-lockDetailedStatus1="Berlin   20¬∞" hint-lockDetailedStatus2="Rain Showers" hint-lockDetailedStatus3="High 24¬∞, Low 14¬∞"><binding template="TileSmall" hint-textStacking="center" hint-overlay="30" branding="none"><image placement="background" src="WeatherImages/210x173/46.jpg?a" /><text hint-style="cap   `°WÇ8 ,¬4Ã å                tile<?xml version="1.0" encoding="utf-8"?><tile><visual version="2" Branding="name" baseUri="http://blob.weather.microsoft.com/static/mws-new/" hint-lockDetailedStatus1="Berlin   21¬∞" hint-lockDetailedStatus2="Rain Showers" hint-lockDetailedStatus3="High 24¬∞, Low 14¬∞"><binding template="TileSmall" hint-textStacking="center" hint-overlay="30" branding="none"><image placement="background" src="WeatherImages/210x173/46.jpg?a" /><text hint-style="cap   ePÇ* ,*æ~                tile<tile></tile>
+’)„Ãòìˆ’'àM[SˆXml’'ÇÂ˜§  ∫ ,¬<» å                tile<?xml version="1.0" encoding="utf-8"?><tile><visual version="2" Branding="name" baseUri="http://blob.weather.microsoft.com/static/mws-new/" hint-lockDetailedStatus1="Berlin   21¬∞" hint-lockDetailedStatus2="Mostly Cloudy" hint-lockDetailedStatus3="High 26¬∞, Low 17¬∞"><binding template="TileSmall" hint-textStacking="center" hint-overlay="30" branding="none"><image placement="background" src="Wea°[Ç7 ,¬<À å                tile<?xml version="1.0" encoding="utf-8"?><tile><visual version="2" Branding="name" baseUri="http://blob.weather.microsoft.com/static/mws-new/" hint-lockDetailedStatus1="Berlin   21¬∞" hint-lockDetailedStatus2="Mostly Cloudy" hint-lockDetailedStatus3="High 24¬∞, Low 14¬∞"><binding template="TileSmall" hint-textStacking="center" hint-overlay="30" branding="none"><image placement="background" src="WeatherImages/210x173/31.jpg?a" /><text hint-style="ca   U°WÇ; ,¬4œ å                tile<?xml version="1.0" encoding="utf-8"?><tile><visual version="2" Branding="name" baseUri="http://blob.weather.microsoft.com/static/mws-new/" hint-lockDetailedStatus1="Berlin   19¬∞" hint-lockDetailedStatus2="Rain Showers" hint-lockDetailedStatus3="High 24¬∞, Low 14¬∞"><binding template="TileSmall" hint-textStacking="center" hint-overlay="30" branding="none"><image placement="background" src="WeatherImages/210x173/46.jpg?a" /><text hint-style="cap   VÜ^Ç5 ,åD…?                tile<tile><visual lang="en-US"><binding template="TileSmall" branding="none" hint-textStacking="center"><text hint-align="center">Fr</text><text hint-align="center" hint-style="titlenumeral">21</text></binding><binding template="TileMedium" branding="none" hint-textStacking="center"><text hint-align="center" hint-style="caption">Freitag</text><text hint-align="center" hint-style="headernumeral">21</text></binding><binding template="TileWide" branding="nameAndLogo"><text hint-align="right" hint-style="caption">Freitag</text><text hint-align="right" hint-style="headernumeral">21</text></binding><binding template="TileLarge" branding="nameAndLogo"><text hint-align="right" hint-style="caption">Freitag</text><text hint-align="right" hint-style="headernumeral">21</text></binding></visual></tile>’(|´¬p ’'≥Å¶3¿Xml’'ÇÂ˜§   b    ä“Naò§j¿l>ﬂ‰* œŒ Ù‰÷«∏¶ïáycO:$˜ËŸ«∂®ôâ{l]K:,ˇ·œæ∞†èÄp`M;,Î€ÕæØùå~o_QB3!›Õø∞°è~pûéÄqbP?1ÖugXI7Ô·“¬˛Ô›Ãæ´`O@0 ˚Ïßÿ¬≠
+°
+ë
+É
+t
+e
+S
+B
+4
+ˇ
+
+·
+œ
+æ
+∞
+%
+
+	¯	È	◊	∆	∏	®	ó	à	x	h	U	C	4	$		Ù‰—ø∞†èÄp`M;,òâxiTC.˚Î€Ã∏ûé~k[I8!	˙¸Ï‹…∑®Ïòàzk\J9+˛Ô‡Œ&          ∫O!	nc:inteŒ              ∫O!	nc:internet∫N	nc:toast∫M	nc:badge∫L	nc:tile∫K	nc:tickle∫J	nc:cloud∫Ipc:voip∫H	pc:ringing∫G!	pc:internet∫F	pc:toast∫E	pc:badge∫D	pc:tile∫C	pc:tickle∫B	pc:cloud∏	+	hc:storage:toastµ1hc:voipµ0	hc:ringingµ/!	hc:internetµ.	hc:toastµ-	hc:badgeµ,	hc:tile∫\)	?c:storage:tile¥wc:voip¥	wc:ringing¥!	wc:internet¥	wc:toast¥	wc:badge¥	wc:tile¥	wc:tickle¥	wc:cloud∏m'	?s:cycle:large∏l)	?s:cycle:medium∏k%	?s:cycle:wide∂= Çc:voip∂<	 Çc:ringing∂;!	 Çc:internet∂:	 Çc:toast∂9	 Çc:badge∂8	 Çc:tile∂7	 Çc:tickle∂6	 Çc:cloud¥
+qc:voip¥		qc:ringing¥!	qc:internet¥	qc:toast¥	qc:badge¥	qc:tile¥	qc:tickle¥	qc:cloud∫A)	~c:storage:tile¥~c:voip¥ 	~c:ringing≥!	~c:internet≥~	~c:toast≥}	~c:badge≥|	~c:tile≥{	~c:tickle≥z	~c:cloud≥yjc:voip≥x	jc:ringing≥w!jc:internet≥v	jc:toast≥u	jc:badge≥t	jc:tile≥s	jc:tickle≥r	jc:cloud∫5 ñc:voip∫4+ ñc:storage:toast∫3) ñc:storage:tile∫2 ñc:tickle∫1 ñc:ringing∫0 ñc:badge∫/!	 ñc:internet∫.	 ñc:toast∫-	 ñc:cloud∫,/	 ñs:listenerEnabled∫+# ñs:stopCloud∫*	 ñs:voip∫)	 ñs:audio∫(	 ñs:badge∫'	 ñs:toast∫& ñr:tile∫%# ñs:lock:tile∫$% ñs:lock:badge∫#	 ñs:banner∫"%	 ñs:lock:toast∫!	 ñs:tile∫  ñs:tickle∫ ñc:tile∫ ñr:badge∫? çc:voip∫> çc:ringing∫=!	 çc:internet∫< çc:toast∫; çc:badge∫: çc:tile∫9 çc:tickle∫8	 çc:cloud∫ êc:voip∫ êc:ringing∫!	 êc:internet∫
+ êc:toast∫	 êc:badge∫ êc:tile∫ êc:tickle∫	 êc:cloud∫ èc:voip∫ èc:ringing∫!	 èc:internet∫ èc:toast∫ èc:badge∫  èc:tileπ èc:tickleπ~	 èc:cloudπ} éc:voipπ| éc:ringingπ{!	 éc:internetπz éc:toastπy éc:badgeπx éc:tileπw éc:tickleπv	 éc:cloudπt2c:voipπs	2c:ringingπr!2c:internetπq	2c:toastπp2c:badgeπo2c:tileπn2c:tickleπm2c:cloudπd6c:voipπc6c:ringingπb!6c:internetπa	6c:toastπ`6c:badgeπ_	6c:tileπ^6c:tickleπ]6c:cloudπlc:voipπkc:ringingπj!c:internetπi	c:toastπhc:badgeπgc:tileπfc:tickleπec:cloud≤^ ìc:voip≤]	 ìc:ringing≤\!	 ìc:internet≤[	 ìc:toast≤Z	 ìc:badge≤Y	 ìc:tile≤X	 ìc:tickle≤W	 ìc:cloud≤V=c:voip≤U	=c:ringing≤T!	=c:internet≤S	=c:toast≤R	=c:badge≤Q	=c:tile≤P	=c:tickle≤O	=c:cloud≤NBc:voip≤M	Bc:ringing≤L!	Bc:internet≤K	Bc:toast≤J	Bc:badge≤I	Bc:tile≤H	Bc:tickle≤G	Bc:cloud≤FAc:voip≤E	Ac:ringing≤D!	Ac:internet≤C	Ac:toast≤B	Ac:badge≤A	Ac:tile≤@	Ac:tickle≤?	Ac:cloud≤>)	rc:storage:tile≤<'	rs:cycle:large≤;%	rs:cycle:wide≤:)	rs:cycle:medium≤9	rr:tile≤8rc:voip≤7	rc:ringing≤6!	rc:internet≤5	rc:toast≤4	rc:badge≤3	rc:tile≤2	rc:tickle≤1	rc:cloudπu+	 ïc:storage:toast±= ïc:voipî ◊) ïc:storage:tile±: ïc:tickle±9	 ïc:ringing±8 ïc:badge±7! ïc:internet±6	 ïc:toast±5 ïc:cloud±4/ ïs:listenerEnabled±3# ïs:stopCloud±2 ïs:voip±1	 ïs:audio±0 ïs:ba∫b)	 åc:storage:tile∫Qnc:voip∫P	nc:ringing¥N!	7c:internet¥M	7c:toast¥L	7c:badge¥K	7c:tile¥J	7c:tickle¥I	7c:cloud   )	 åc:storage:tileµ4+	#c:storage:toastµ+	hc:tickleµ*	hc:cloud¥P7c:voip¥O	7c:ringing   g   ä“Naò§j$”…7|ö          Y   Ylign="center">Berlin</text><text hint-style="base" hint-align="center">21¬∞</text></binding><binding template="TileMedium" DisplayName="Berlin" hint-overlay="30"><image placement="background" src="WeatherImages/210x173/19.jpg?a" /><text>Rain Showers</text><image hint-removeMargin="True" hint-align="center" src="ms-appx:///Assets/AppTiles/Spacer/6px.png" /><group><subgroup hint-weight="70" hint-textStacking="center"><image hint-removeMargin="True" hint-align="center" src="ms-appx:///Assets/AppTiles/Spacer/2px.png" /><text hint-style="titleNumeral">21¬∞</text></subgroup><subgroup hint-weight="30"><image hint-removeMargin="True" hint-align="center" src="ms-appx:///Assets/AppTiles/Spacer/6px.png" /><text>26¬∞</text><text hint-style="captionsubtle">17¬∞</text></subgroup></group></binding><binding template="TileWide" DisplayName="Berlin" hint-overlay="30"><image placement="background" src="WeatherImages/423x173/19.jpg?a" /><text>Rain Showers</text><image hint-removeMargin="True" hint-align="center" src="ms-appx:///Assets/AppTiles/Spacer/6px.png" /><group><subgroup hint-weight="32" hint-textStacking="center"><image hint-removeMargin="True" hint-align="center" src="ms-appx:///Assets/AppTiles/Spacer/2px.png" /><text hint-style="titleNumeral">21¬∞</text></subgroup><subgroup hint-weight="20"><image hint-removeMargin="True" hint-align="center" src="ms-appx:///Assets/AppTiles/Spacer/6px.png" /><text>26¬∞</text><text hint-style="captionsubtle">17¬∞</text></subgroup><subgroup hint-weight="10"><image hint-removeMargin="True" hint-align="center" src="ms-appx:///Assets/AppTiles/Spacer/6px.png" /><image hint-removeMargin="True" hint-align="center" src="LiveTile/Icons_Icon_PoP_sm.png?a" /><image hint-removeMargin="True" hint-align="center" src="ms-appx:///Assets/AppTiles/Spacer/4px.png" /><image hint-removeMargin="True" hint-align="center" src="LiveTile/W6.png?a" /></subgroup><subgroup hint-weight="38"><image hint-removeMargin="True" hint-align="center" src="ms-appx:///Assets/AppTiles/Spacer/6px.png" /><text>25%</text><text>6 mph</text></subgroup></group></binding><binding template="TileLarge" DisplayName="Berlin" hint-overlay="30"><image placement="background" src="WeatherImages/210x173/19.jpg?a" /><text>Rain Showers</text><image hint-removeMargin="True" hint-align="center" src="ms-appx:///Assets/AppTiles/Spacer/6px.png" /><group><subgroup hint-weight="100"><image hint-removeMargin="True" hint-align="center" src="ms-appx:///Assets/AppTiles/Spacer/2px.png" /><text hint-style="subheaderNumeral">21¬∞</text></subgroup></group><text /><group><subgroup hint-weight="18"><text hint-align="center">Thu</text><image hint-align="center" src="WeatherIcons/30x30/3.png?a" /><text hint-align="center">26¬∞</text><text hint-style="captionsubtle" hint-align="center">17¬∞</text></subgroup><subgroup hint-weight="18"><text hint-align="center">Fri</text><image hint-align="center" src="WeatherIcons/30x30/3.png?a" /><text hint-align="center">24¬∞</text><text hint-style="captionsubtle" hint-align="center">14¬∞</text></subgroup><subgroup hint-weight="18"><text hint-align="center">Sat</text><image hint-align="center" src="WeatherIcons/30x30/3.png?a" /><text hint-align="center">23¬∞</text><text hint-style="captionsubtle" hint-align="center">13¬∞</text></subgroup><subgroup hint-weight="18"><text hint-align="center">Sun</text><image hint-align="center" src="WeatherIcons/30x30/1.png?a" /><text hint-align="center">24¬∞</text><text hint-style="captionsubtle" hint-align="center">14¬∞</text></subgroup><subgroup hint-weight="18"><text hint-align="center">Mon</text><image hint-align="center" src="WeatherIcons/30x30/3.png?a" /><text hint-align="center">27¬∞</text><text hint-style="captionsubtle" hint-align="center">16¬∞</text></subgroup></group></binding></visual></tile>’)©¯◊ú’'Nyô’úXml’'Nny@                                                                                                                                                                                                                                                                                     ä“Naò§jÖh∫ÿß¸d / ÌŸ∆©ñ~L/                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       ÉY7CurrentNotificationId–
+3TilesBandwidthTotal   	CurrentNotificationId3	OutlookQuirkEnabled)	DB_INTIIALIZED;toastCondensed:maxCountP)	badge:maxCount)toast:maxCount'tile:maxCount      ä“Naò§jwõQ†@
+h 5 5öÇP…Ô‹≠                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             7CurrentNotificationIdŸ3TilesBandwidthTotal
+   CurrentNotificationId3OutlookQuirkEnabled)DB_INTIIALIZED;toastCondensed:maxCount)badge:maxCount)toast:maxCount'	tile:maxCount       ä“Naò§jx∑†J˜Ó1jSQLite format 3   @     #   g   g                                                      # .(k   ˚    ˚Ê9	÷ 	t	ç~ü(b¬Rô!"X ´Á%             Ç9''Ñ1tableHandlerAssetsHandlerAssetsCREATE TABLE [HandlerAssets]( [HandlerId] INTEGER CONSTRAINT[AssetsToHandler] REFERENCES[NotificationHandler]([RecordId]) ON DELETE CASCADE ON UPDATE CASCADE, [AssetKey] TEXT NOT NULL, [AssetValue] TEXT, CONSTRAINT[] PRIMARY KEY([AssetKey], [HandlerId]) ON CONFLICT REPLACE)9M' indexsqlite_autoindex_HandlerAssets_1HandlerAssetsÇ3--ÑtableNotificationDataNotificationDataCREATE TABLE [NotificationData]( [NotificationId] INTEGER CONSTRAINT[DataToNotification] REFERENCES[Notification]([Id]) ON DELETE CASCADE ON UPDATE CASCADE, [Key] TEXT NOT NULL, [Value] TEXT, CONSTRAINT[] PRIMARY KEY([Key], [NotificationId]) ON CONFLICT REPLACE)?S- indexsqlite_autoindex_NotificationData_1NotificationDataÅÅ]tableMetadataMetadataCREATE TABLE [Metadata]( [Key] TEXT, [Value] INT64, CONSTRAINT[] PRIMARY KEY([Key]) ON CONFLICT REPLACE)/C indexsqlite_autoindex_Metadata_1Metadatan))ÅindexchannelExpiredWNSPushChannelCREATE INDEX [channelExpired] ON [WNSPushChannel] ([ExpiryTime] DESC)d%)ÅindexchannelByAppWNSPushChannelCREATE INDEX [channelByApp] ON [WNSPushChannel] ([HandlerId])Ç7))Ñ)tableWNSPushChannelWNSPushChannelCREATE TABLE [WNSPushChannel]( [ChannelId] TEXT NOT NULL, [HandlerId] INTEGER REFERENCES[NotificationHandler]([RecordId]) ON DELETE CASCADE ON UPDATE CASCADE, [Uri] TEXT, [ExpiryTime] INT64, [CreatedTime] INT64, CONSTRAINT[] PRIMARY KEY([ChannelId]) ON CONFLICT REPLACE);O) indexsqlite_autoindex_WNSPushChannel_1WNSPushChannelt3%ÅindexnotificationExpiredNotificationCREATE INDEX [notificationExpired] ON [Notification] ([ExpiryTime] DESC)g1%ÅindexnotificationByTypeNotificationCREATE INDEX [notificationByType] ON [Notification] ([Type])Å9%ÅGindexnotificationByTagGroupNotificationCREATE INDEX [notificationByTagGroup] ON [Notification] ([HandlerId], [Type], [Group], [Tag])~;%Å)indexnotificationByAppByTypeNotificationCREATE INDEX [notificationByAppByType] ON [Notification] ([HandlerId], [Type])y
+=%ÅindexnotificationByActivityIdNotificationCREATE INDEX [notificationByActivityId] ON [Notification] ([ActivityId])j	/%ÅindexnotificationByAppNotification
+CREATE INDEX [notificationByApp] ON [Notification] ([HandlerId])`-%}indexnotificationByIdNotification	CREATE INDEX [notificationById] ON [Notification] ([Id])Ñ'%%àtableNotificationNotificationCREATE TABLE [Notification]( [Order] INTEGER NOT NULL PRIMARY KEY, [Id] INTEGER NOT NULL, [HandlerId] INTEGER CONSTRAINT[NotificationToHandler] REFERENCES[NotificationHandler]([RecordId]) ON DELETE CASCADE ON UPDATE CASCADE, [ActivityId] GUID,[Type] TEXT NOT NULL, [Payload] BLOB, [Tag] TEXT, [Group] TEXT, [ExpiryTime] INT64, [ArrivalTime] INT64, [DataVersion] INT64 DEFAULT '0', [PayloadType] TEXT NOT NULL, [BootId] INT64 DEFAULT '0', [ExpiresOnReboot] BOOLEAN DEFAULT 'FALSE', UNIQUE([Id]) ON CONFLICT REPLACE)7K% indexsqlite_autoindex_Notification_1Notificationi+ÅindexbySettingHandlerSettingsCREATE INDEX [bySetting] ON[HandlerSettings] ([SettingKey], [Value])Ç?++Ñ5tableHandlerSettingsHandlerSettingsCREATE TABLE [HandlerSettings]( [HandlerId] INTEGER CONSTRAINT[SettingsToHandler] REFERENCES[NotificationHandler]([RecordId]) ON DELETE CASCADE ON UPDATE CASCADE, [SettingKey] TEXT NOT NULL, [Value] INT, CONSTRAINT[] PRIMARY KEY([SettingKey], [HandlerId]) ON CONFLICT REPLACE)=Q+ indexsqlite_autoindex_HandlerSettings_1HandlerSettings       w'3Å!indexbyHandlerNameNotificationHandlerCREATE UNIQUE INDEX [byHandlerName] ON [NotificationHandler] ([PrimaryId])ÇW33ÑUtableNotificationHandlerNotificationHandlerCREATE TABLE [NotificationHandler] ( [RecordId] INTEGER PRIMARY KEY, [PrimaryId] TEXT NOT NULL COLLATE NOCASE, [WNSId] TEXT COLLATE NOCASE, [HandlerType] TEXT, [WNFEventName] INT64, [SystemDataPropertySet] BLOB, [CreatedTime] DATETIME, [ModifiedTime] DATETIME, [ParentId] TEXT COLLATE NO          ä“Naò§jÙ°2ªz¢∂
+ö `êàÄ»ÿ–h∞¯p`∏Ë®x‡†¿X                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                ª ' ß™ ( ®∫&°∏$Õ95 ¥4 ≥3 ≤    ,œ;Ã8≤æ*–<6 µL ¡K ¿Œ:…5≥∑#   	    ä“Naò§j$ ®jà|J
+ö `êàÄ»ÿ–h∞¯p`∏Ë®x‡†¿X                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                ª ' ß™ ( ®∫&°∏$Õ95 ¥4 ≥3 ≤    ,œ;Ã8≤æ*–<6 µL ¡K ¿Œ:…5≥∑#   
+    ä“Naò§jôTg±Î
+ß cùñè≈Ÿk“à·Å˘rz≠µËΩcß                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      ü  ë ßä   ï&h~$~*~r ¡> ¥> ≥> ≤Ã Ã  å å8 å: å<> µ    år ¿?5~ å; å9 ~#       ä“Naò§j⁄-ä¥Ã≠È8
+¬ > ¨ñ;%|fTÍæ‘j>„®ÕÄí˘                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        ordIndex [0,1,2,-1,3,1,0,-1]
 coord Coordinate { point [0.093 4.593 1.899,0.171 4.829 1.821,0.093 4.907 1.899,0.171 4.671 1.821]
 }}
 appearance Appearance{material USE IC-BODY-EPOXY-04 }
