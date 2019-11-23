@@ -4547,231 +4547,91 @@ PARAMETRIC_REPRESENTATION_CONTEXT() REPRESENTATION_CONTEXT('2D SPACE',''
 PARAMETRIC_REPRESENTATION_CONTEXT() REPRESENTATION_CONTEXT('2D SPACE',''
 ) );
 #3786 = PCURVE('',#1685,#3787);
-#3787 = DEFINITIONAL_REPRESENTATION('',(#3788),#3792);
-#3788 = LINE('',#3789,#3790);
-#3789 = CARTESIAN_POINT('',(0.,0.));
-#3790 = VECTOR('',#3791,1.);
-#3791 = DIRECTION('',(1.,0.));
-#3792 = ( GEOMETRIC_REPRESENTATION_CONTEXT(2)
-PARAMETRIC_REPRESENTATION_CONTEXT() REPRESENTATION_CONTEXT('2D SPACE',''
-) );
-#3793 = ORIENTED_EDGE('',*,*,#1090,.F.);
-#3794 = ADVANCED_FACE('',(#3795),#1270,.F.);
-#3795 = FACE_BOUND('',#3796,.F.);
-#3796 = EDGE_LOOP('',(#3797,#3820,#3848,#3874));
-#3797 = ORIENTED_EDGE('',*,*,#3798,.F.);
-#3798 = EDGE_CURVE('',#3799,#1255,#3801,.T.);
-#3799 = VERTEX_POINT('',#3800);
-#3800 = CARTESIAN_POINT('',(-0.595807377657,-0.39,0.));
-#3801 = SURFACE_CURVE('',#3802,(#3806,#3813),.PCURVE_S1.);
-#3802 = LINE('',#3803,#3804);
-#3803 = CARTESIAN_POINT('',(-0.595807377657,-0.39,0.));
-#3804 = VECTOR('',#3805,1.);
-#3805 = DIRECTION('',(0.,0.,1.));
-#3806 = PCURVE('',#1270,#3807);
-#3807 = DEFINITIONAL_REPRESENTATION('',(#3808),#3812);
-#3808 = LINE('',#3809,#3810);
-#3809 = CARTESIAN_POINT('',(0.,0.));
-#3810 = VECTOR('',#3811,1.);
-#3811 = DIRECTION('',(1.,0.));
-#3812 = ( GEOMETRIC_REPRESENTATION_CONTEXT(2)
-PARAMETRIC_REPRESENTATION_CONTEXT() REPRESENTATION_CONTEXT('2D SPACE',''
-) );
-#3813 = PCURVE('',#3583,#3814);
-#3814 = DEFINITIONAL_REPRESENTATION('',(#3815),#3819);
-#3815 = LINE('',#3816,#3817);
-#3816 = CARTESIAN_POINT('',(0.,0.));
-#3817 = VECTOR('',#3818,1.);
-#3818 = DIRECTION('',(1.,0.));
-#3819 = ( GEOMETRIC_REPRESENTATION_CONTEXT(2)
-PARAMETRIC_REPRESENTATION_CONTEXT() REPRESENTATION_CONTEXT('2D SPACE',''
-) );
-#3820 = ORIENTED_EDGE('',*,*,#3821,.T.);
-#3821 = EDGE_CURVE('',#3799,#3822,#3824,.T.);
-#3822 = VERTEX_POINT('',#3823);
-#3823 = CARTESIAN_POINT('',(-0.595807377657,-0.61,0.));
-#3824 = SURFACE_CURVE('',#3825,(#3829,#3836),.PCURVE_S1.);
-#3825 = LINE('',#3826,#3827);
-#3826 = CARTESIAN_POINT('',(-0.595807377657,-0.39,0.));
-#3827 = VECTOR('',#3828,1.);
-#3828 = DIRECTION('',(-1.144237745222E-17,-1.,0.));
-#3829 = PCURVE('',#1270,#3830);
-#3830 = DEFINITIONAL_REPRESENTATION('',(#3831),#3835);
-#3831 = LINE('',#3832,#3833);
-#3832 = CARTESIAN_POINT('',(0.,0.));
-#3833 = VECTOR('',#3834,1.);
-#3834 = DIRECTION('',(0.,-1.));
-#3835 = ( GEOMETRIC_REPRESENTATION_CONTEXT(2)
-PARAMETRIC_REPRESENTATION_CONTEXT() REPRESENTATION_CONTEXT('2D SPACE',''
-) );
-#3836 = PCURVE('',#3837,#3842);
-#3837 = PLANE('',#3838);
-#3838 = AXIS2_PLACEMENT_3D('',#3839,#3840,#3841);
-#3839 = CARTESIAN_POINT('',(-0.595807377657,-0.39,0.));
-#3840 = DIRECTION('',(0.,0.,1.));
-#3841 = DIRECTION('',(-1.,1.144237745222E-17,0.));
-#3842 = DEFINITIONAL_REPRESENTATION('',(#3843),#3847);
-#3843 = LINE('',#3844,#3845);
-#3844 = CARTESIAN_POINT('',(0.,0.));
-#3845 = VECTOR('',#3846,1.);
-#3846 = DIRECTION('',(0.,1.));
-#3847 = ( GEOMETRIC_REPRESENTATION_CONTEXT(2)
-PARAMETRIC_REPRESENTATION_CONTEXT() REPRESENTATION_CONTEXT('2D SPACE',''
-) );
-#3848 = ORIENTED_EDGE('',*,*,#3849,.T.);
-#3849 = EDGE_CURVE('',#3822,#1228,#3850,.T.);
-#3850 = SURFACE_CURVE('',#3851,(#3855,#3862),.PCURVE_S1.);
-#3851 = LINE('',#3852,#3853);
-#3852 = CARTESIAN_POINT('',(-0.595807377657,-0.61,0.));
-#3853 = VECTOR('',#3854,1.);
-#3854 = DIRECTION('',(0.,0.,1.));
-#3855 = PCURVE('',#1270,#3856);
-#3856 = DEFINITIONAL_REPRESENTATION('',(#3857),#3861);
-#3857 = LINE('',#3858,#3859);
-#3858 = CARTESIAN_POINT('',(0.,-0.22));
-#3859 = VECTOR('',#3860,1.);
-#3860 = DIRECTION('',(1.,0.));
-#3861 = ( GEOMETRIC_REPRESENTATION_CONTEXT(2)
-PARAMETRIC_REPRESENTATION_CONTEXT() REPRESENTATION_CONTEXT('2D SPACE',''
-) );
-#3862 = PCURVE('',#3863,#3868);
-#3863 = PLANE('',#3864);
-#3864 = AXIS2_PLACEMENT_3D('',#3865,#3866,#3867);
-#3865 = CARTESIAN_POINT('',(-0.595807377657,-0.61,0.));
-#3866 = DIRECTION('',(-1.144237745222E-17,-1.,0.));
-#3867 = DIRECTION('',(0.,0.,1.));
-#3868 = DEFINITIONAL_REPRESENTATION('',(#3869),#3873);
-#3869 = LINE('',#3870,#3871);
-#3870 = CARTESIAN_POINT('',(0.,0.));
-#3871 = VECTOR('',#3872,1.);
-#3872 = DIRECTION('',(1.,0.));
-#3873 = ( GEOMETRIC_REPRESENTATION_CONTEXT(2)
-PARAMETRIC_REPRESENTATION_CONTEXT() REPRESENTATION_CONTEXT('2D SPACE',''
-) );
-#3874 = ORIENTED_EDGE('',*,*,#1254,.F.);
-#3875 = ADVANCED_FACE('',(#3876),#1134,.T.);
-#3876 = FACE_BOUND('',#3877,.T.);
-#3877 = EDGE_LOOP('',(#3878,#4200,#4201,#4518));
-#3878 = ORIENTED_EDGE('',*,*,#3879,.F.);
-#3879 = EDGE_CURVE('',#1119,#3880,#3882,.T.);
-#3880 = VERTEX_POINT('',#3881);
-#3881 = CARTESIAN_POINT('',(0.6,-0.39,0.11));
-#3882 = SURFACE_CURVE('',#3883,(#3985,#4090),.PCURVE_S1.);
-#3883 = B_SPLINE_CURVE_WITH_KNOTS('',4,(#3884,#3885,#3886,#3887,#3888,
-#3889,#3890,#3891,#3892,#3893,#3894,#3895,#3896,#3897,#3898,#3899,
-#3900,#3901,#3902,#3903,#3904,#3905,#3906,#3907,#3908,#3909,#3910,
-#3911,#3912,#3913,#3914,#3915,#3916,#3917,#3918,#3919,#3920,#3921,
-#3922,#3923,#3924,#3925,#3926,#3927,#3928,#3929,#3930,#3931,#3932,
-#3933,#3934,#3935,#3936,#3937,#3938,#3939,#3940,#3941,#3942,#3943,
-#3944,#3945,#3946,#3947,#3948,#3949,#3950,#3951,#3952,#3953,#3954,
-#3955,#3956,#3957,#3958,#3959,#3960,#3961,#3962,#3963,#3964,#3965,
-#3966,#3967,#3968,#3969,#3970,#3971,#3972,#3973,#3974,#3975,#3976,
-#3977,#3978,#3979,#3980,#3981,#3982,#3983,#3984),.UNSPECIFIED.,.F.,
-.F.,(5,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3
-,5),(0.,3.000037299321E-02,6.00007227273E-02,9.000104922037E-02,
-0.12000135249,0.150001632556,0.180001889434,0.210002123143,
-0.240002333701,0.270002521127,0.300002685437,0.33000282665,
-0.360002944784,0.390003039857,0.420003111887,0.45000316089,
-0.480003186887,0.510003189893,0.540003169928,0.570003127008,
-0.600003061152,0.630002972377,0.660002860701,0.690002726142,
-0.720002568718,0.750002388446,0.780002185344,0.810001959429,
-0.84000171072,0.870001439234,0.900001144989,0.930000828001,
-0.960000488289,1.),.UNSPECIFIED.);
-#3884 = CARTESIAN_POINT('',(0.595807377657,-0.39,3.E-02));
-#3885 = CARTESIAN_POINT('',(0.595838822313,-0.39,3.059999976731E-02));
-#3886 = CARTESIAN_POINT('',(0.595870266976,-0.39,3.119999968979E-02));
-#3887 = CARTESIAN_POINT('',(0.595901711648,-0.39,3.179999976739E-02));
-#3888 = CARTESIAN_POINT('',(0.595964600983,-0.39,3.299999976754E-02));
-#3889 = CARTESIAN_POINT('',(0.595996045647,-0.39,3.359999969008E-02));
-#3890 = CARTESIAN_POINT('',(0.596027490318,-0.39,3.419999976763E-02));
-#3891 = CARTESIAN_POINT('',(0.596090379653,-0.39,3.539999976777E-02));
-#3892 = CARTESIAN_POINT('',(0.596121824317,-0.39,3.599999969038E-02));
-#3893 = CARTESIAN_POINT('',(0.596153268988,-0.39,3.659999976786E-02));
-#3894 = CARTESIAN_POINT('',(0.596216158324,-0.39,3.779999976801E-02));
-#3895 = CARTESIAN_POINT('',(0.596247602987,-0.39,3.839999969067E-02));
-#3896 = CARTESIAN_POINT('',(0.596279047659,-0.39,3.899999976809E-02));
-#3897 = CARTESIAN_POINT('',(0.596341936994,-0.39,4.019999976824E-02));
-#3898 = CARTESIAN_POINT('',(0.596373381657,-0.39,4.079999969097E-02));
-#3899 = CARTESIAN_POINT('',(0.596404826329,-0.39,4.139999976833E-02));
-#3900 = CARTESIAN_POINT('',(0.596467715664,-0.39,4.259999976848E-02));
-#3901 = CARTESIAN_POINT('',(0.596499160328,-0.39,4.319999969126E-02));
-#3902 = CARTESIAN_POINT('',(0.596530604999,-0.39,4.379999976856E-02));
-#3903 = CARTESIAN_POINT('',(0.596593494334,-0.39,4.499999976871E-02));
-#3904 = CARTESIAN_POINT('',(0.596624938998,-0.39,4.559999969155E-02));
-#3905 = CARTESIAN_POINT('',(0.59665638367,-0.39,4.61999997688E-02));
-#3906 = CARTESIAN_POINT('',(0.596719273005,-0.39,4.739999976894E-02));
-#3907 = CARTESIAN_POINT('',(0.596750717668,-0.39,4.799999969185E-02));
-#3908 = CARTESIAN_POINT('',(0.59678216234,-0.39,4.859999976903E-02));
-#3909 = CARTESIAN_POINT('',(0.596845051675,-0.39,4.979999976918E-02));
-#3910 = CARTESIAN_POINT('',(0.596876496339,-0.39,5.039999969214E-02));
-#3911 = CARTESIAN_POINT('',(0.59690794101,-0.39,5.099999976926E-02));
-#3912 = CARTESIAN_POINT('',(0.596970830345,-0.39,5.219999976941E-02));
-#3913 = CARTESIAN_POINT('',(0.597002275009,-0.39,5.279999969243E-02));
-#3914 = CARTESIAN_POINT('',(0.59703371968,-0.39,5.339999976949E-02));
-#3915 = CARTESIAN_POINT('',(0.597096609016,-0.39,5.459999976964E-02));
-#3916 = CARTESIAN_POINT('',(0.597128053679,-0.39,5.519999969272E-02));
-#3917 = CARTESIAN_POINT('',(0.597159498351,-0.39,5.579999976973E-02));
-#3918 = CARTESIAN_POINT('',(0.597222387686,-0.39,5.699999976987E-02));
-#3919 = CARTESIAN_POINT('',(0.597253832349,-0.39,5.759999969302E-02));
-#3920 = CARTESIAN_POINT('',(0.597285277021,-0.39,5.819999976996E-02));
-#3921 = CARTESIAN_POINT('',(0.597348166356,-0.39,5.939999977011E-02));
-#3922 = CARTESIAN_POINT('',(0.59737961102,-0.39,5.999999969331E-02));
-#3923 = CARTESIAN_POINT('',(0.597411055691,-0.39,6.059999977019E-02));
-#3924 = CARTESIAN_POINT('',(0.597473945027,-0.39,6.179999977034E-02));
-#3925 = CARTESIAN_POINT('',(0.59750538969,-0.39,6.23999996936E-02));
-#3926 = CARTESIAN_POINT('',(0.597536834362,-0.39,6.299999977042E-02));
-#3927 = CARTESIAN_POINT('',(0.597599723697,-0.39,6.419999977057E-02));
-#3928 = CARTESIAN_POINT('',(0.59763116836,-0.39,6.479999969389E-02));
-#3929 = CARTESIAN_POINT('',(0.597662613032,-0.39,6.539999977066E-02));
-#3930 = CARTESIAN_POINT('',(0.597725502367,-0.39,6.65999997708E-02));
-#3931 = CARTESIAN_POINT('',(0.597756947031,-0.39,6.719999969418E-02));
-#3932 = CARTESIAN_POINT('',(0.597788391702,-0.39,6.779999977089E-02));
-#3933 = CARTESIAN_POINT('',(0.597851281037,-0.39,6.899999977103E-02));
-#3934 = CARTESIAN_POINT('',(0.597882725701,-0.39,6.959999969447E-02));
-#3935 = CARTESIAN_POINT('',(0.597914170373,-0.39,7.019999977112E-02));
-#3936 = CARTESIAN_POINT('',(0.597977059708,-0.39,7.139999977126E-02));
-#3937 = CARTESIAN_POINT('',(0.598008504371,-0.39,7.199999969476E-02));
-#3938 = CARTESIAN_POINT('',(0.598039949043,-0.39,7.259999977135E-02));
-#3939 = CARTESIAN_POINT('',(0.598102838378,-0.39,7.379999977149E-02));
-#3940 = CARTESIAN_POINT('',(0.598134283042,-0.39,7.439999969505E-02));
-#3941 = CARTESIAN_POINT('',(0.598165727713,-0.39,7.499999977158E-02));
-#3942 = CARTESIAN_POINT('',(0.598228617048,-0.39,7.619999977173E-02));
-#3943 = CARTESIAN_POINT('',(0.598260061712,-0.39,7.679999969534E-02));
-#3944 = CARTESIAN_POINT('',(0.598291506383,-0.39,7.739999977181E-02));
-#3945 = CARTESIAN_POINT('',(0.598354395719,-0.39,7.859999977196E-02));
-#3946 = CARTESIAN_POINT('',(0.598385840382,-0.39,7.919999969563E-02));
-#3947 = CARTESIAN_POINT('',(0.598417285054,-0.39,7.979999977204E-02));
-#3948 = CARTESIAN_POINT('',(0.598480174389,-0.39,8.099999977219E-02));
-#3949 = CARTESIAN_POINT('',(0.598511619052,-0.39,8.159999969592E-02));
-#3950 = CARTESIAN_POINT('',(0.598543063724,-0.39,8.219999977227E-02));
-#3951 = CARTESIAN_POINT('',(0.598605953059,-0.39,8.339999977242E-02));
-#3952 = CARTESIAN_POINT('',(0.598637397723,-0.39,8.399999969621E-02));
-#3953 = CARTESIAN_POINT('',(0.598668842394,-0.39,8.45999997725E-02));
-#3954 = CARTESIAN_POINT('',(0.598731731729,-0.39,8.579999977265E-02));
-#3955 = CARTESIAN_POINT('',(0.598763176393,-0.39,8.63999996965E-02));
-#3956 = CARTESIAN_POINT('',(0.598794621065,-0.39,8.699999977273E-02));
-#3957 = CARTESIAN_POINT('',(0.5988575104,-0.39,8.819999977288E-02));
-#3958 = CARTESIAN_POINT('',(0.598888955063,-0.39,8.879999969679E-02));
-#3959 = CARTESIAN_POINT('',(0.598920399735,-0.39,8.939999977296E-02));
-#3960 = CARTESIAN_POINT('',(0.59898328907,-0.39,9.059999977311E-02));
-#3961 = CARTESIAN_POINT('',(0.599014733734,-0.39,9.119999969708E-02));
-#3962 = CARTESIAN_POINT('',(0.599046178405,-0.39,9.179999977319E-02));
-#3963 = CARTESIAN_POINT('',(0.59910906774,-0.39,9.299999977334E-02));
-#3964 = CARTESIAN_POINT('',(0.599140512404,-0.39,9.359999969737E-02));
-#3965 = CARTESIAN_POINT('',(0.599171957075,-0.39,9.419999977342E-02));
-#3966 = CARTESIAN_POINT('',(0.599234846411,-0.39,9.539999977356E-02));
-#3967 = CARTESIAN_POINT('',(0.599266291074,-0.39,9.599999969765E-02));
-#3968 = CARTESIAN_POINT('',(0.599297735746,-0.39,9.659999977365E-02));
-#3969 = CARTESIAN_POINT('',(0.599360625081,-0.39,9.779999977379E-02));
-#3970 = CARTESIAN_POINT('',(0.599392069744,-0.39,9.839999969794E-02));
-#3971 = CARTESIAN_POINT('',(0.599423514416,-0.39,9.899999977388E-02));
-#3972 = CARTESIAN_POINT('',(0.599486403751,-0.39,0.100199999774));
-#3973 = CARTESIAN_POINT('',(0.599517848415,-0.39,0.100799999698));
-#3974 = CARTESIAN_POINT('',(0.599549293086,-0.39,0.101399999774));
-#3975 = CARTESIAN_POINT('',(0.599612182421,-0.39,0.102599999774));
-#3976 = CARTESIAN_POINT('',(0.599643627085,-0.39,0.103199999699));
-#3977 = CARTESIAN_POINT('',(0.599675071757,-0.39,0.103799999774));
-#3978 = CARTESIAN_POINT('',(0.599737961092,-0.39,0.104999999774));
+#3787 = DEFINITIONAL_REPRESENTAStatus, Updating service status. CurrentState=SERVICE_STOP_PENDING, StateCode=3, WaitHint=0
+WIA: 2668.2784 4039219 80000000 0 [wiaservc.dll] Dispatcher::ClearEventHandlers, Clearing all event handlers from the Dispatcher
+WIA: 2668.2784 4039219 1 0 [wiaservc.dll] PowerEventHandler::~PowerEventHandler,  (000002E854A05DA0)
+WIA: 2668.2784 4039219 1 0 [wiaservc.dll] ServiceEventHandler::~ServiceEventHandler,  (000002E854A05D00)
+WIA: 2668.2784 4039219 80000000 0 [wiaservc.dll] Dispatcher::ClearEventSources, Clearing all event sources from the Dispatcher
+WIA: 2668.2888 4039219 0 0 [wiaservc.dll] SCMControlQueue::ControlRequest::~ControlRequest, Control request (control: 5, event type: 0) deleted
+WIA: 2668.2784 4039219 1 0 [wiaservc.dll] Dispatcher::~Dispatcher,  (000002E854A05A20)
+WIA: 2668.2784 4039219 1 0 [wiaservc.dll] GenericEventSource::~GenericEventSource,  (000002E854A05C60)
+WIA: 2668.2784 4039219 1 0 [wiaservc.dll] DeviceListManager::~DeviceListManager,  (000002E854A05E40)
+WIA: 2668.2784 4039219 80000000 0 [wiaservc.dll] DeviceListManager::ClearDevices, Clearing all Devices from the DeviceListManager
+WIA: 2668.2784 4039219 1 0 [wiaservc.dll] USDWrapper::~USDWrapper, ~USDWrapper (000002E854A09480) for {6BDD1FC6-810F-11D0-BEC7-08002BE2092F}\0001, with friendly name (Brother MFC-J6930DW [3c2af42669e7])
+WIA: 2668.2784 4039219 4 0 [wiaservc.dll] USDWrapper::UnAdvise, The DeviceClassWrapper could not unregister for device notifications on (Brother MFC-J6930DW [3c2af42669e7]) because we could not find the DeviceInfoSet object
+WIA: 2668.2784 4039219 1 0 [wiaservc.dll] USDWrapper::~USDWrapper, ~USDWrapper (000002E854A07EF0) for {6BDD1FC6-810F-11D0-BEC7-08002BE2092F}\0000, with friendly name (Brother ADS-2600We [30055cc116fe])
+WIA: 2668.2784 4039219 4 0 [wiaservc.dll] USDWrapper::UnAdvise, The DeviceClassWrapper could not unregister for device notifications on (Brother ADS-2600We [30055cc116fe]) because we could not find the DeviceInfoSet object
+WIA: 2668.2784 4039219 80000000 0 [wiaservc.dll] DeviceListManager::ClearEnumerators, Clearing all DeviceEnumerators from the DeviceListManager
+WIA: 2668.2784 4039219 1 0 [wiaservc.dll] RegistryDeviceEnumerator::~RegistryDeviceEnumerator,  (000002E854A06130)
+WIA: 2668.2784 4039219 1 0 [wiaservc.dll] DeviceClassEnumeratorHandler::~DeviceClassEnumeratorHandler,  (000002E854A06010)
+WIA: 2668.2784 4039219 1 0 [wiaservc.dll] DeviceInfoSet::~DeviceInfoSet,  (000002E854A05F60)
+WIA: 2668.2784 4039219 1 0 [wiaservc.dll] StiLockMgr::~StiLockMgr,  (000002E854A06390)
+WIA: 2668.2784 4039219 1 0 [wiaservc.dll] WiaEventNotifier::~WiaEventNotifier,  (000002E854A06400)
+WIA: 2668.2784 4039219 1 0 [wiaservc.dll] WiaService::~WiaService, ~WiaService (000002E854A04CF0)
+WIA: 2668.2784 4039219 80000000 0 [wiaservc.dll] ShutdownWSDChallenge, Shutting down WSD Challenge: Unload DLL 1
+WIA: 2668.2888 4039219 0 0 [wiaservc.dll] SCMControlHandler::ControlThread, Requests queue empty, control thread entering sleep...
+WIA: 2668.2672 4039219 0 0 [wiaservc.dll] SCMControlHandler::ControlFunction, Control function (control: 5, event type: 0) returning
+WIA: 2668.2876 4039297 0 0 [wiaservc.dll] SchedulerThread, SchedulerThread after calling WaitForMultipleObjects dwErr = 0x00000000
+WIA: 2668.2784 4039656 1 0 [wiaservc.dll] SCMControlHandler::~SCMControlHandler,  (000002E854A05AF0)
+WIA: 2668.2784 4039656 0 0 [wiaservc.dll] SCMControlHandler::~SCMControlHandler, Waiting for the control thread to terminate...
+WIA: 2668.2888 4039672 0 0 [wiaservc.dll] SCMControlHandler::ControlThread, Terminating control thread
+WIA: 2668.2784 4039672 2 0 [wiaservc.dll] SCMControlHandler::~SCMControlHandler, Updating service status. CurrentState=SERVICE_STOPPED, StateCode=1, WaitHint=0
+
+**************** Started trace for Module: [wiaservc.dll] in Executable [svchost.exe] ProcessID: [2648] at 2019/06/14 19:45:32:326 ****************
+WIA: 2648.2788 218 80000000 0 [wiaservc.dll] SchedulerInitialize, Work item scheduler initialized
+WIA: 2648.2788 218 0 0 [wiaservc.dll] SCMControlHandler::SCMControlHandler, Created control thread Id 2912
+WIA: 2648.2912 281 0 0 [wiaservc.dll] SCMControlHandler::ControlThread, Requests queue empty, control thread entering sleep...
+WIA: 2648.2652 500 0 0 [wiaservc.dll] SCMControlQueue::Push, SERVICE_CONTROL_POWEREVENT (control: 13, event type: 32787): 24 bytes
+WIA: 2648.2652 500 0 0 [wiaservc.dll] SCMControlQueue::Push, Adding control request to queue (control: 13, event type: 32787)
+WIA: 2648.2652 500 0 0 [wiaservc.dll] SCMControlHandler::ControlFunction, Signaling control thread to resume...
+WIA: 2648.2912 500 0 0 [wiaservc.dll] SCMControlHandler::ControlThread, Resuming control thread...
+WIA: 2648.2912 500 0 0 [wiaservc.dll] SCMControlQueue::Pop, Control request (control: 13, event type: 32787) detached from queue
+WIA: 2648.2912 500 0 0 [wiaservc.dll] SCMControlHandler::ControlThread, Processing control request (control: 13, event type: 32787)...
+WIA: 2648.2912 500 2 0 [wiaservc.dll] Dispatcher::ProcessEvent, System event received: dwControl 13, dwEventType 32787, lpEventData: 0x0000015C31E075A0
+WIA: 2648.2912 500 0 0 [wiaservc.dll] DeviceClassEnumeratorHandler::ProcessEvent, Processing system event, control code 13, event type 32787..
+WIA: 2648.2912 500 0 0 [wiaservc.dll] DeviceClassEnumeratorHandler::ProcessEvent, Processing system event control code 13, event type 32787, completed with with hr 0x00000000
+WIA: 2648.2912 500 2 0 [wiaservc.dll] PowerEventHandler::ProcessEvent, Message from Power Management: PBT_POWERSETTINGCHANGE
+WIA: 2648.2912 500 2 0 [wiaservc.dll] PowerEventHandler::ProcessEvent, Leaving Connected Standby...
+WIA: 2648.2912 500 0 0 [wiaservc.dll] DeviceListManager::InitializeWSDChallenge, WSD Challenge successfully initiated (thread: 3052)
+WIA: 2648.2912 500 8 0 [wiaservc.dll] RegistryDeviceEnumerator::Refresh, An error occured in RegistryDeviceEnumerator when enumerating the subkeys for (SYSTEM\CurrentControlSet\Control\StillImage\FakeDevices)
+WIA: 2648.2912 500 80000000 0 [wiaservc.dll] DeviceListManager::isInList, Device ({6BDD1FC6-810F-11D0-BEC7-08002BE2092F}\0000) was not found in the device list
+WIA: 2648.2912 500 8 0 [wiaservc.dll] DeviceInfoSet::GetDeviceStatus, CM_Get_DevNode_Status for device ({6BDD1FC6-810F-11D0-BEC7-08002BE2092F}\0000) failed, return code 0x0000000D, DEV_STATE_ACTIVE not set
+WIA: 2648.2912 500 80000000 0 [wiaservc.dll] DeviceListManager::isInList, Device ({6BDD1FC6-810F-11D0-BEC7-08002BE2092F}\0001) was not found in the device list
+WIA: 2648.2912 515 8 0 [wiaservc.dll] DeviceInfoSet::GetDeviceStatus, CM_Get_DevNode_Status for device ({6BDD1FC6-810F-11D0-BEC7-08002BE2092F}\0001) failed, return code 0x0000000D, DEV_STATE_ACTIVE not set
+WIA: 2648.2912 515 80000000 0 [wiaservc.dll] DeviceListManager::Enumerate, The DeviceListManager is done enumerating devices
+WIA: 2648.2912 515 8 0 [wiaservc.dll] DeviceListManager::LoadUnloadDrivers, Pending operation on device ({6BDD1FC6-810F-11D0-BEC7-08002BE2092F}\0001)
+WIA: 2648.2912 515 0 0 [wiaservc.dll] USDWrapper::RefreshSettings, Refreshing USDWrapper settings for (Brother MFC-J6930DW [3c2af42669e7])
+WIA: 2648.2912 515 0 0 [wiaservc.dll] USDWrapper::RefreshSettings, Updating the current settings for (Brother MFC-J6930DW [3c2af42669e7]) from Registry
+WIA: 2648.2912 515 0 0 [wiaservc.dll] USDWrapper::RefreshSettings, (Brother MFC-J6930DW [3c2af42669e7]) is a WIA device (internal type: 0x00000031)
+WIA: 2648.2912 515 8 0 [wiaservc.dll] DeviceInfoSet::GetDeviceStatus, CM_Get_DevNode_Status for device ({6BDD1FC6-810F-11D0-BEC7-08002BE2092F}\0001) failed, return code 0x0000000D, DEV_STATE_ACTIVE not set
+WIA: 2648.2912 515 4 0 [wiaservc.dll] USDWrapper::RefreshSettings, Device state for (Brother MFC-J6930DW [3c2af42669e7]) remains 0x00000000
+WIA: 2648.2912 515 4 0 [wiaservc.dll] USDWrapper::RefreshSettings, Device state 0x00000001 means 'disabled', 0x00000002 'removed',  0x00000004 'active'
+WIA: 2648.2912 515 4 0 [wiaservc.dll] USDWrapper::RefreshSettings, Previous PnP identifier of (Brother MFC-J6930DW [3c2af42669e7]): \\?\swd#dafwsdprovider#urn:uuid:e3248000-80ce-11db-8000-3c2af42669e7#uri:e3248000-80ce-11db-8000-3c2af42669e7#scannerservice#{6bdd1fc6-810f-11d0-bec7-08002be2092f}
+WIA: 2648.2912 515 4 0 [wiaservc.dll] USDWrapper::RefreshSettings, New PnP identifier for (Brother MFC-J6930DW [3c2af42669e7]): \\?\swd#dafwsdprovider#urn:uuid:e3248000-80ce-11db-8000-3c2af42669e7#uri:e3248000-80ce-11db-8000-3c2af42669e7#scannerservice#{6bdd1fc6-810f-11d0-bec7-08002be2092f}
+WIA: 2648.2912 515 8 0 [wiaservc.dll] DeviceListManager::ProcessDeviceArrival, Device (Brother MFC-J6930DW [3c2af42669e7]) state is currently marked 0x00000000
+WIA: 2648.2912 515 8 0 [wiaservc.dll] DeviceListManager::ProcessDeviceArrival, Device (Brother MFC-J6930DW [3c2af42669e7]) is inactive
+WIA: 2648.2912 515 8 0 [wiaservc.dll] DeviceListManager::LoadUnloadDrivers, Pending operation on device ({6BDD1FC6-810F-11D0-BEC7-08002BE2092F}\0000)
+WIA: 2648.2912 515 0 0 [wiaservc.dll] USDWrapper::RefreshSettings, Refreshing USDWrapper settings for (Brother ADS-2600We [30055cc116fe])
+WIA: 2648.2912 515 0 0 [wiaservc.dll] USDWrapper::RefreshSettings, Updating the current settings for (Brother ADS-2600We [30055cc116fe]) from Registry
+WIA: 2648.2912 515 0 0 [wiaservc.dll] USDWrapper::RefreshSettings, (Brother ADS-2600We [30055cc116fe]) is a WIA device (internal type: 0x00000031)
+WIA: 2648.2912 515 8 0 [wiaservc.dll] DeviceInfoSet::GetDeviceStatus, CM_Get_DevNode_Status for device ({6BDD1FC6-810F-11D0-BEC7-08002BE2092F}\0000) failed, return code 0x0000000D, DEV_STATE_ACTIVE not set
+WIA: 2648.2912 515 4 0 [wiaservc.dll] USDWrapper::RefreshSettings, Device state for (Brother ADS-2600We [30055cc116fe]) remains 0x00000000
+WIA: 2648.2912 515 4 0 [wiaservc.dll] USDWrapper::RefreshSettings, Device state 0x00000001 means 'disabled', 0x00000002 'removed',  0x00000004 'active'
+WIA: 2648.2912 515 4 0 [wiaservc.dll] USDWrapper::RefreshSettings, Previous PnP identifier of (Brother ADS-2600We [30055cc116fe]): \\?\swd#dafwsdprovider#urn:uuid:e3248000-80ce-11db-8000-30055cc116fe#uri:e3248000-80ce-11db-8000-30055cc116fe#scannerservice#{6bdd1fc6-810f-11d0-bec7-08002be2092f}
+WIA: 2648.2912 515 4 0 [wiaservc.dll] USDWrapper::RefreshSettings, New PnP identifier for (Brother ADS-2600We [30055cc116fe]): \\?\swd#dafwsdprovider#urn:uuid:e3248000-80ce-11db-8000-30055cc116fe#uri:e3248000-80ce-11db-8000-30055cc116fe#scannerservice#{6bdd1fc6-810f-11d0-bec7-08002be2092f}
+WIA: 2648.2912 515 8 0 [wiaservc.dll] DeviceListManager::ProcessDeviceArrival, Device (Brother ADS-2600We [30055cc116fe]) state is currently marked 0x00000000
+WIA: 2648.2912 515 8 0 [wiaservc.dll] DeviceListManager::ProcessDeviceArrival, Device (Brother ADS-2600We [30055cc116fe]) is inactive
+WIA: 2648.2912 515 8 0 [wiaservc.dll] DeviceListManager::DeviceCallback, The device (Brother ADS-2600We [30055cc116fe]) seems to be inactive - its driver will not be loaded
+WIA: 2648.2912 515 8 0 [wiaservc.dll] DeviceListManager::DeviceCallback, The device (Brother MFC-J6930DW [3c2af42669e7]) seems to be inactive - its driver will not be loaded
+WIA: 2648.2912 515 2 0 [wiaservc.dll] SCMControlHandler::UpdateServiceStatus, Updating service status. CurrentState=SERVICE_RUNNING, StateCode=4, WaitHint=0
+WIA: 2648.2652 515 0 0 [wiaservc.dll] SCMControlHandler::ControlFunction, Control function (control: 13, event type: 32787) returning
+WIA: 2648.2912 593 0 0 [wiaservc.dll] SCMControlQueue::ControlRequest::~ControlRequest, Control request (control: 13, event type: 32787) deleted
+WIA: 2648.2912 593 0 0 [wiaservc.dll] SCMControlHandler::ControlThread, Requests queue empty, control thread entering sleep...
+WIA: 2648.3052 593 80000000 0 [wiaservc.dll] InitializeWSDChallenge, Intializing WSD Challenge for {6BDD1FC6-810F-11D0-BEC7-08002BE2092F}..
+WIA: 2648.3052 593 80000000 0 [wiaservc.dll] InitializeWSDChallenge, Intialize WSD Challenge...
+WIA: 2648.3052 593 80000000 0 [wiaservc.dll] InitializeWSDChallenge, Load WSD Challenge DLL...
+WIA: 2648.2788 906 80000000 0 [wiaservc.dll] StartFactories, StartFactories, Success
+WIA: 2648.2788 906 8 0 [wiaservc.dll] RegistryDeviceEnumerator::Refresh, An error occured in RegistryDeviceEnN_POINT('',(0.599737961092,-0.39,0.104999999774));
 #3979 = CARTESIAN_POINT('',(0.599769405755,-0.39,0.105599999699));
 #3980 = CARTESIAN_POINT('',(0.599800850427,-0.39,0.106199999775));
 #3981 = CARTESIAN_POINT('',(0.599874221309,-0.39,0.107599999598));
@@ -6665,109 +6525,15 @@ PARAMETRIC_REPRESENTATION_CONTEXT() REPRESENTATION_CONTEXT('2D SPACE',''
 #5570 = VECTOR('',#5571,1.);
 #5571 = DIRECTION('',(1.,1.110223024625E-16,0.));
 #5572 = PCURVE('',#1685,#5573);
-#5573 = DEFINITIONAL_REPRESENTATION('',(#5574),#5578);
-#5574 = LINE('',#5575,#5576);
-#5575 = CARTESIAN_POINT('',(0.11,0.));
-#5576 = VECTOR('',#5577,1.);
-#5577 = DIRECTION('',(0.,1.));
-#5578 = ( GEOMETRIC_REPRESENTATION_CONTEXT(2)
-PARAMETRIC_REPRESENTATION_CONTEXT() REPRESENTATION_CONTEXT('2D SPACE',''
-) );
-#5579 = PCURVE('',#5426,#5580);
-#5580 = DEFINITIONAL_REPRESENTATION('',(#5581),#5585);
-#5581 = LINE('',#5582,#5583);
-#5582 = CARTESIAN_POINT('',(0.,0.22));
-#5583 = VECTOR('',#5584,1.);
-#5584 = DIRECTION('',(1.,0.));
-#5585 = ( GEOMETRIC_REPRESENTATION_CONTEXT(2)
-PARAMETRIC_REPRESENTATION_CONTEXT() REPRESENTATION_CONTEXT('2D SPACE',''
-) );
-#5586 = ADVANCED_FACE('',(#5587),#2180,.T.);
-#5587 = FACE_BOUND('',#5588,.T.);
-#5588 = EDGE_LOOP('',(#5589,#5590,#5616,#5617,#5643,#5644,#5670,#5671,
-#5693,#5715));
-#5589 = ORIENTED_EDGE('',*,*,#2166,.T.);
-#5590 = ORIENTED_EDGE('',*,*,#5591,.T.);
-#5591 = EDGE_CURVE('',#1845,#2309,#5592,.T.);
-#5592 = SURFACE_CURVE('',#5593,(#5597,#5604),.PCURVE_S1.);
-#5593 = LINE('',#5594,#5595);
-#5594 = CARTESIAN_POINT('',(-0.6,0.8,0.11));
-#5595 = VECTOR('',#5596,1.);
-#5596 = DIRECTION('',(2.22044604925E-16,-1.,0.));
-#5597 = PCURVE('',#2180,#5598);
-#5598 = DEFINITIONAL_REPRESENTATION('',(#5599),#5603);
-#5599 = LINE('',#5600,#5601);
-#5600 = CARTESIAN_POINT('',(0.,0.));
-#5601 = VECTOR('',#5602,1.);
-#5602 = DIRECTION('',(1.,0.));
-#5603 = ( GEOMETRIC_REPRESENTATION_CONTEXT(2)
-PARAMETRIC_REPRESENTATION_CONTEXT() REPRESENTATION_CONTEXT('2D SPACE',''
-) );
-#5604 = PCURVE('',#5605,#5610);
-#5605 = PLANE('',#5606);
-#5606 = AXIS2_PLACEMENT_3D('',#5607,#5608,#5609);
-#5607 = CARTESIAN_POINT('',(-0.595807377657,0.61,0.11));
-#5608 = DIRECTION('',(0.,0.,1.));
-#5609 = DIRECTION('',(-1.,1.144237745222E-17,0.));
-#5610 = DEFINITIONAL_REPRESENTATION('',(#5611),#5615);
-#5611 = LINE('',#5612,#5613);
-#5612 = CARTESIAN_POINT('',(4.192622342643E-03,-0.19));
-#5613 = VECTOR('',#5614,1.);
-#5614 = DIRECTION('',(-2.334869823773E-16,1.));
-#5615 = ( GEOMETRIC_REPRESENTATION_CONTEXT(2)
-PARAMETRIC_REPRESENTATION_CONTEXT() REPRESENTATION_CONTEXT('2D SPACE',''
-) );
-#5616 = ORIENTED_EDGE('',*,*,#2948,.T.);
-#5617 = ORIENTED_EDGE('',*,*,#5618,.T.);
-#5618 = EDGE_CURVE('',#2627,#3054,#5619,.T.);
-#5619 = SURFACE_CURVE('',#5620,(#5624,#5631),.PCURVE_S1.);
-#5620 = LINE('',#5621,#5622);
-#5621 = CARTESIAN_POINT('',(-0.6,0.8,0.11));
-#5622 = VECTOR('',#5623,1.);
-#5623 = DIRECTION('',(2.22044604925E-16,-1.,0.));
-#5624 = PCURVE('',#2180,#5625);
-#5625 = DEFINITIONAL_REPRESENTATION('',(#5626),#5630);
-#5626 = LINE('',#5627,#5628);
-#5627 = CARTESIAN_POINT('',(0.,0.));
-#5628 = VECTOR('',#5629,1.);
-#5629 = DIRECTION('',(1.,0.));
-#5630 = ( GEOMETRIC_REPRESENTATION_CONTEXT(2)
-PARAMETRIC_REPRESENTATION_CONTEXT() REPRESENTATION_CONTEXT('2D SPACE',''
-) );
-#5631 = PCURVE('',#5632,#5637);
-#5632 = PLANE('',#5633);
-#5633 = AXIS2_PLACEMENT_3D('',#5634,#5635,#5636);
-#5634 = CARTESIAN_POINT('',(-0.595807377657,0.11,0.11));
-#5635 = DIRECTION('',(0.,0.,1.));
-#5636 = DIRECTION('',(-1.,1.144237745222E-17,0.));
-#5637 = DEFINITIONAL_REPRESENTATION('',(#5638),#5642);
-#5638 = LINE('',#5639,#5640);
-#5639 = CARTESIAN_POINT('',(4.192622342643E-03,-0.69));
-#5640 = VECTOR('',#5641,1.);
-#5641 = DIRECTION('',(-2.334869823773E-16,1.));
-#5642 = ( GEOMETRIC_REPRESENTATION_CONTEXT(2)
-PARAMETRIC_REPRESENTATION_CONTEXT() REPRESENTATION_CONTEXT('2D SPACE',''
-) );
-#5643 = ORIENTED_EDGE('',*,*,#3693,.T.);
-#5644 = ORIENTED_EDGE('',*,*,#5645,.T.);
-#5645 = EDGE_CURVE('',#3372,#4544,#5646,.T.);
-#5646 = SURFACE_CURVE('',#5647,(#5651,#5658),.PCURVE_S1.);
-#5647 = LINE('',#5648,#5649);
-#5648 = CARTESIAN_POINT('',(-0.6,0.8,0.11));
-#5649 = VECTOR('',#5650,1.);
-#5650 = DIRECTION('',(2.22044604925E-16,-1.,0.));
-#5651 = PCURVE('',#2180,#5652);
-#5652 = DEFINITIONAL_REPRESENTATION('',(#5653),#5657);
-#5653 = LINE('',#5654,#5655);
-#5654 = CARTESIAN_POINT('',(0.,0.));
-#5655 = VECTOR('',#5656,1.);
-#5656 = DIRECTION('',(1.,0.));
-#5657 = ( GEOMETRIC_REPRESENTATION_CONTEXT(2)
-PARAMETRIC_REPRESENTATION_CONTEXT() REPRESENTATION_CONTEXT('2D SPACE',''
-) );
-#5658 = PCURVE('',#5659,#5664);
-#5659 = PLANE('',#5660);
-#5660 = AXIS2_PLACEMENT_3D('',#5661,#5662,#5663);
+#5573 = DEFINITIONAL_REPRU0313id68%U0313TMCM-1140%U0313TMCL%20creator\Closed=false
+mdiArea\CAN1%U0313CAN-PEAK%U0313id68%U0313TMCM-1140%U0313TMCL%20creator\State=0
+
+[Container]
+FirmwareUpdate\WindowFullScreen=false
+FirmwareUpdate\Maximized=false
+FirmwareUpdate\Size=@Size(719 594)
+FirmwareUpdate\Position=@Point(480 114)
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 661,#5662,#5663);
 #5661 = CARTESIAN_POINT('',(-0.595807377657,-0.39,0.11));
 #5662 = DIRECTION('',(0.,0.,1.));
 #5663 = DIRECTION('',(-1.,1.144237745222E-17,0.));
